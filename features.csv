@@ -1,0 +1,771 @@
+,modelId,layer,index,description,explanationModelName,typeName
+0,gpt2-small,8-res_fs768-jb,82,ages of children,gpt-3.5-turbo,oai_token-act-pair
+1,gpt2-small,8-res_fs768-jb,489,words related to specific locations,gpt-3.5-turbo,oai_token-act-pair
+2,gpt2-small,8-res_fs768-jb,142,names of individuals,gpt-3.5-turbo,oai_token-act-pair
+3,gpt2-small,8-res_fs768-jb,546,mentions of the color red,gpt-3.5-turbo,oai_token-act-pair
+4,gpt2-small,8-res_fs768-jb,0,phrases related to international relations or policies,gpt-3.5-turbo,oai_token-act-pair
+5,gpt2-small,8-res_fs768-jb,21,requests for instruction or help,gpt-3.5-turbo,oai_token-act-pair
+6,gpt2-small,8-res_fs768-jb,389,"contractions involving ""don't""",gpt-3.5-turbo,oai_token-act-pair
+7,gpt2-small,8-res_fs768-jb,468,locations or geographic regions,gpt-3.5-turbo,oai_token-act-pair
+8,gpt2-small,8-res_fs768-jb,715, mentions of car accidents,gpt-3.5-turbo,oai_token-act-pair
+9,gpt2-small,8-res_fs768-jb,1,terms related to law enforcement and legal actions,gpt-3.5-turbo,oai_token-act-pair
+10,gpt2-small,8-res_fs768-jb,0,information related to governmental policies and international affairs,gpt-3.5-turbo,oai_token-act-pair
+11,gpt2-small,8-res_fs768-jb,1,actions related to implementing bans and restrictions,gpt-3.5-turbo,oai_token-act-pair
+12,gpt2-small,8-res_fs768-jb,2,information related to historical figures and events,gpt-3.5-turbo,oai_token-act-pair
+13,gpt2-small,8-res_fs768-jb,3,phrases related to showcasing or demonstrating something,gpt-3.5-turbo,oai_token-act-pair
+14,gpt2-small,8-res_fs768-jb,4,"phrases related to laws, regulations, policies, and societal issues",gpt-3.5-turbo,oai_token-act-pair
+15,gpt2-small,8-res_fs768-jb,5,proper nouns related to various topics,gpt-3.5-turbo,oai_token-act-pair
+16,gpt2-small,8-res_fs768-jb,6,actions or abilities described in a positive light,gpt-3.5-turbo,oai_token-act-pair
+17,gpt2-small,8-res_fs768-jb,7,financial terms related to investments and trade,gpt-3.5-turbo,oai_token-act-pair
+18,gpt2-small,8-res_fs768-jb,9,names of sports teams and players,gpt-3.5-turbo,oai_token-act-pair
+19,gpt2-small,8-res_fs768-jb,10,phrases related to legal matters and sports injuries,gpt-3.5-turbo,oai_token-act-pair
+20,gpt2-small,8-res_fs768-jb,11,phrases related to restaurants and food chains,gpt-3.5-turbo,oai_token-act-pair
+21,gpt2-small,8-res_fs768-jb,12,information related to the German language,gpt-3.5-turbo,oai_token-act-pair
+22,gpt2-small,8-res_fs768-jb,13,references to political inquiries or investigations,gpt-3.5-turbo,oai_token-act-pair
+23,gpt2-small,8-res_fs768-jb,14,phrases related to direction and movement,gpt-3.5-turbo,oai_token-act-pair
+24,gpt2-small,8-res_fs768-jb,15,percentages and numbers related to statistics and data,gpt-3.5-turbo,oai_token-act-pair
+25,gpt2-small,8-res_fs768-jb,16,"phrases related to conflicts, injustices, and tragedies",gpt-3.5-turbo,oai_token-act-pair
+26,gpt2-small,8-res_fs768-jb,17,"news articles related to various topics like government, legislation, sports, and health",gpt-3.5-turbo,oai_token-act-pair
+27,gpt2-small,8-res_fs768-jb,18,names of individuals or specific entities,gpt-3.5-turbo,oai_token-act-pair
+28,gpt2-small,8-res_fs768-jb,19,content related to political figures and policies,gpt-3.5-turbo,oai_token-act-pair
+29,gpt2-small,8-res_fs768-jb,20,names of individuals or entities,gpt-3.5-turbo,oai_token-act-pair
+30,gpt2-small,8-res_fs768-jb,22,phrases related to decision-making or judgment,gpt-3.5-turbo,oai_token-act-pair
+31,gpt2-small,8-res_fs768-jb,23,financial and business terms,gpt-3.5-turbo,oai_token-act-pair
+32,gpt2-small,8-res_fs768-jb,24, specific locations or names of places,gpt-3.5-turbo,oai_token-act-pair
+33,gpt2-small,8-res_fs768-jb,25,"keywords related to natural disasters, scientific research, and political and economic issues",gpt-3.5-turbo,oai_token-act-pair
+34,gpt2-small,8-res_fs768-jb,26,"words related to secrecy, espionage, leaked information, and controversies in politics",gpt-3.5-turbo,oai_token-act-pair
+35,gpt2-small,8-res_fs768-jb,27,legal cases and proceedings,gpt-3.5-turbo,oai_token-act-pair
+36,gpt2-small,8-res_fs768-jb,28,phrases related to informing or recounting events,gpt-3.5-turbo,oai_token-act-pair
+37,gpt2-small,8-res_fs768-jb,29,comparisons or contrasts,gpt-3.5-turbo,oai_token-act-pair
+38,gpt2-small,8-res_fs768-jb,30,keywords related to geographical locations and historical events,gpt-3.5-turbo,oai_token-act-pair
+39,gpt2-small,8-res_fs768-jb,31,comparative words or phrases,gpt-3.5-turbo,oai_token-act-pair
+40,gpt2-small,8-res_fs768-jb,32,"the phrase ""end result""",gpt-3.5-turbo,oai_token-act-pair
+41,gpt2-small,8-res_fs768-jb,33,"information related to monitoring and following activities, specifically in the context of technology advancements and business initiatives",gpt-3.5-turbo,oai_token-act-pair
+42,gpt2-small,8-res_fs768-jb,34,countries and their related entities,gpt-3.5-turbo,oai_token-act-pair
+43,gpt2-small,8-res_fs768-jb,35,sports-related discussions or updates,gpt-3.5-turbo,oai_token-act-pair
+44,gpt2-small,8-res_fs768-jb,36,information related to crime and tragic events,gpt-3.5-turbo,oai_token-act-pair
+45,gpt2-small,8-res_fs768-jb,37,quantitative details and statistics,gpt-3.5-turbo,oai_token-act-pair
+46,gpt2-small,8-res_fs768-jb,38,quotations in the text,gpt-3.5-turbo,oai_token-act-pair
+47,gpt2-small,8-res_fs768-jb,39,words related to the beginning or initiation of actions or events,gpt-3.5-turbo,oai_token-act-pair
+48,gpt2-small,8-res_fs768-jb,40,statements related to controversy or contentious situations,gpt-3.5-turbo,oai_token-act-pair
+49,gpt2-small,8-res_fs768-jb,41,"discussion of specific individuals or entities within a community or organization, likely in a professional or work-related context",gpt-3.5-turbo,oai_token-act-pair
+50,gpt2-small,8-res_fs768-jb,42,"sentences that emphasize unity and common ground among individuals, often using the context of discussing differences in background, beliefs, or preferences",gpt-3.5-turbo,oai_token-act-pair
+51,gpt2-small,8-res_fs768-jb,43," mentions of legal proceedings, court appearances, lawsuits, and trials",gpt-3.5-turbo,oai_token-act-pair
+52,gpt2-small,8-res_fs768-jb,44,informational questions and instructions,gpt-3.5-turbo,oai_token-act-pair
+53,gpt2-small,8-res_fs768-jb,45,information related to specific topics and points in a text,gpt-3.5-turbo,oai_token-act-pair
+54,gpt2-small,8-res_fs768-jb,46,mentions of current or recent events/actions,gpt-3.5-turbo,oai_token-act-pair
+55,gpt2-small,8-res_fs768-jb,47,"words related to artistic and creative expressions, especially in the context of filmmaking and storytelling",gpt-3.5-turbo,oai_token-act-pair
+56,gpt2-small,8-res_fs768-jb,48,keywords related to legal matters and policies,gpt-3.5-turbo,oai_token-act-pair
+57,gpt2-small,8-res_fs768-jb,49,political figures and events,gpt-3.5-turbo,oai_token-act-pair
+58,gpt2-small,8-res_fs768-jb,50,"requests, negotiations, and agreements within a context of creating solutions and cooperation",gpt-3.5-turbo,oai_token-act-pair
+59,gpt2-small,8-res_fs768-jb,51,names and titles of individuals,gpt-3.5-turbo,oai_token-act-pair
+60,gpt2-small,8-res_fs768-jb,52,proper nouns related to news articles,gpt-3.5-turbo,oai_token-act-pair
+61,gpt2-small,8-res_fs768-jb,53,"information related to regulations and substances, especially in the context of marijuana or chemicals like THC and methanol",gpt-3.5-turbo,oai_token-act-pair
+62,gpt2-small,8-res_fs768-jb,54,mentions of specific terms related to technology and names of programming languages,gpt-3.5-turbo,oai_token-act-pair
+63,gpt2-small,8-res_fs768-jb,55,legal terms and information related to court cases and laws,gpt-3.5-turbo,oai_token-act-pair
+64,gpt2-small,8-res_fs768-jb,56,"words related to social and political issues, critical comments, and mentions of crises",gpt-3.5-turbo,oai_token-act-pair
+65,gpt2-small,8-res_fs768-jb,57,technical instructions related to setting up and configuring software applications,gpt-3.5-turbo,oai_token-act-pair
+66,gpt2-small,8-res_fs768-jb,58, mentions of specific activities or events,gpt-3.5-turbo,oai_token-act-pair
+67,gpt2-small,8-res_fs768-jb,59,technical details and historical information about various subjects,gpt-3.5-turbo,oai_token-act-pair
+68,gpt2-small,8-res_fs768-jb,60,phrases related to physical locations and travel,gpt-3.5-turbo,oai_token-act-pair
+69,gpt2-small,8-res_fs768-jb,61,names of sports teams and players,gpt-3.5-turbo,oai_token-act-pair
+70,gpt2-small,8-res_fs768-jb,62, phrases related to detailed descriptions of past events or actions,gpt-3.5-turbo,oai_token-act-pair
+71,gpt2-small,8-res_fs768-jb,63,social media handles and posts,gpt-3.5-turbo,oai_token-act-pair
+72,gpt2-small,8-res_fs768-jb,64,pronouns 'it' or 'It' followed by either a verb or a possessive pronoun,gpt-3.5-turbo,oai_token-act-pair
+73,gpt2-small,8-res_fs768-jb,65,comments or feedback in a written form,gpt-3.5-turbo,oai_token-act-pair
+74,gpt2-small,8-res_fs768-jb,66,Italian and Spanish words and names,gpt-3.5-turbo,oai_token-act-pair
+75,gpt2-small,8-res_fs768-jb,67,"words related to music albums, facial features, and political figures",gpt-3.5-turbo,oai_token-act-pair
+76,gpt2-small,8-res_fs768-jb,68,statements expressing a strong belief and demand for recognition,gpt-3.5-turbo,oai_token-act-pair
+77,gpt2-small,8-res_fs768-jb,69,any word related to legal matters,gpt-3.5-turbo,oai_token-act-pair
+78,gpt2-small,8-res_fs768-jb,70,phrases related to chemical substances and political topics,gpt-3.5-turbo,oai_token-act-pair
+79,gpt2-small,8-res_fs768-jb,71,technical terms related to software development and programming,gpt-3.5-turbo,oai_token-act-pair
+80,gpt2-small,8-res_fs768-jb,72,"instances of the word ""Too"" with a strong match",gpt-3.5-turbo,oai_token-act-pair
+81,gpt2-small,8-res_fs768-jb,73,food-related descriptions and items,gpt-3.5-turbo,oai_token-act-pair
+82,gpt2-small,8-res_fs768-jb,74,locations or addresses,gpt-3.5-turbo,oai_token-act-pair
+83,gpt2-small,8-res_fs768-jb,75,names of individuals,gpt-3.5-turbo,oai_token-act-pair
+84,gpt2-small,8-res_fs768-jb,76, words related to compliance or adherence,gpt-3.5-turbo,oai_token-act-pair
+85,gpt2-small,8-res_fs768-jb,77,verbs related to transportation and movement,gpt-3.5-turbo,oai_token-act-pair
+86,gpt2-small,8-res_fs768-jb,78,references to advancements in technology and infrastructure,gpt-3.5-turbo,oai_token-act-pair
+87,gpt2-small,8-res_fs768-jb,79,statements expressing opinions or positions on political or social issues,gpt-3.5-turbo,oai_token-act-pair
+88,gpt2-small,8-res_fs768-jb,80,"proper nouns, likely related to individuals, companies, or products",gpt-3.5-turbo,oai_token-act-pair
+89,gpt2-small,8-res_fs768-jb,81,personal pronouns and verb forms referring to actions by or involving people,gpt-3.5-turbo,oai_token-act-pair
+90,gpt2-small,8-res_fs768-jb,83,phrases related to expressing doubt or uncertainty,gpt-3.5-turbo,oai_token-act-pair
+91,gpt2-small,8-res_fs768-jb,84,news articles and social media updates,gpt-3.5-turbo,oai_token-act-pair
+92,gpt2-small,8-res_fs768-jb,85," phrases related to legal matters and regulations, specifically in the context of businesses and government compliance",gpt-3.5-turbo,oai_token-act-pair
+93,gpt2-small,8-res_fs768-jb,86,future predictions or statements of what will happen,gpt-3.5-turbo,oai_token-act-pair
+94,gpt2-small,8-res_fs768-jb,87,"software-related content, specifically mentioning software programs, security vulnerabilities, technology companies, and application features or issues",gpt-3.5-turbo,oai_token-act-pair
+95,gpt2-small,8-res_fs768-jb,88,quotations,gpt-3.5-turbo,oai_token-act-pair
+96,gpt2-small,8-res_fs768-jb,89,phrases related to political events and key officials,gpt-3.5-turbo,oai_token-act-pair
+97,gpt2-small,8-res_fs768-jb,90,personal experiences and emotions expressed in text,gpt-3.5-turbo,oai_token-act-pair
+98,gpt2-small,8-res_fs768-jb,91,technical terms related to computer programming and IT systems,gpt-3.5-turbo,oai_token-act-pair
+99,gpt2-small,8-res_fs768-jb,92,references to commonly accepted ideas or standards,gpt-3.5-turbo,oai_token-act-pair
+100,gpt2-small,8-res_fs768-jb,93,sentences related to political and legal matters,gpt-3.5-turbo,oai_token-act-pair
+101,gpt2-small,8-res_fs768-jb,94,"keywords related to activities and events such as hikes, festivals, political events, and deck building",gpt-3.5-turbo,oai_token-act-pair
+102,gpt2-small,8-res_fs768-jb,95,"technical specifications and details related to products, processes, or data analysis",gpt-3.5-turbo,oai_token-act-pair
+103,gpt2-small,8-res_fs768-jb,96,"past tense verbs related to actions, events, or incidents",gpt-3.5-turbo,oai_token-act-pair
+104,gpt2-small,8-res_fs768-jb,97,personal possessive pronouns and possessive phrases,gpt-3.5-turbo,oai_token-act-pair
+105,gpt2-small,8-res_fs768-jb,98,"verbs expressing obligation, advice, or expectation",gpt-3.5-turbo,oai_token-act-pair
+106,gpt2-small,8-res_fs768-jb,99,items of clothing and accessories,gpt-3.5-turbo,oai_token-act-pair
+107,gpt2-small,8-res_fs768-jb,100,phrases related to specific locations or environments,gpt-3.5-turbo,oai_token-act-pair
+108,gpt2-small,8-res_fs768-jb,101,"technical and legal terms related to intellectual property, pharmacy, and science",gpt-3.5-turbo,oai_token-act-pair
+109,gpt2-small,8-res_fs768-jb,102,phrases related to sports events and team news,gpt-3.5-turbo,oai_token-act-pair
+110,gpt2-small,8-res_fs768-jb,103,keywords related to entrepreneurship and business activities,gpt-3.5-turbo,oai_token-act-pair
+111,gpt2-small,8-res_fs768-jb,104,phrases related to economics and financial matters,gpt-3.5-turbo,oai_token-act-pair
+112,gpt2-small,8-res_fs768-jb,105,time-related information such as dates and specific times,gpt-3.5-turbo,oai_token-act-pair
+113,gpt2-small,8-res_fs768-jb,106,dates and events in history,gpt-3.5-turbo,oai_token-act-pair
+114,gpt2-small,8-res_fs768-jb,107,descriptions of criminal incidents and legal proceedings,gpt-3.5-turbo,oai_token-act-pair
+115,gpt2-small,8-res_fs768-jb,108,mentions of possessive pronouns and related possessive terms,gpt-3.5-turbo,oai_token-act-pair
+116,gpt2-small,8-res_fs768-jb,109,strong emotional expressions in a text,gpt-3.5-turbo,oai_token-act-pair
+117,gpt2-small,8-res_fs768-jb,110,discussions related to political and economic systems,gpt-3.5-turbo,oai_token-act-pair
+118,gpt2-small,8-res_fs768-jb,111,mentions of events or products being released or announced,gpt-3.5-turbo,oai_token-act-pair
+119,gpt2-small,8-res_fs768-jb,112,"terms related to programming, syntax, and computational concepts",gpt-3.5-turbo,oai_token-act-pair
+120,gpt2-small,8-res_fs768-jb,113,"information related to product descriptions, technical specifications, and financial data",gpt-3.5-turbo,oai_token-act-pair
+121,gpt2-small,8-res_fs768-jb,114,"references to terrorism and extremist groups, particularly the Islamic State (ISIS)",gpt-3.5-turbo,oai_token-act-pair
+122,gpt2-small,8-res_fs768-jb,115,phrases related to advice and personal experiences,gpt-3.5-turbo,oai_token-act-pair
+123,gpt2-small,8-res_fs768-jb,117,proper nouns and names,gpt-3.5-turbo,oai_token-act-pair
+124,gpt2-small,8-res_fs768-jb,118,"numerical values related to dates, numbers, and codes",gpt-3.5-turbo,oai_token-act-pair
+125,gpt2-small,8-res_fs768-jb,119,mentions of legal cases and political events,gpt-3.5-turbo,oai_token-act-pair
+126,gpt2-small,8-res_fs768-jb,120,phrases related to thoughts or considerations,gpt-3.5-turbo,oai_token-act-pair
+127,gpt2-small,8-res_fs768-jb,121,"proper nouns related to political figures, government, and official titles",gpt-3.5-turbo,oai_token-act-pair
+128,gpt2-small,8-res_fs768-jb,122,"news-related events, locations, and dates",gpt-3.5-turbo,oai_token-act-pair
+129,gpt2-small,8-res_fs768-jb,123,terms related to technical concepts or definitions,gpt-3.5-turbo,oai_token-act-pair
+130,gpt2-small,8-res_fs768-jb,124,"phrases related to beliefs, political standpoints, and group support",gpt-3.5-turbo,oai_token-act-pair
+131,gpt2-small,8-res_fs768-jb,125, mentions of being accused of various actions or behaviors,gpt-3.5-turbo,oai_token-act-pair
+132,gpt2-small,8-res_fs768-jb,126, names of famous individuals and specific locations,gpt-3.5-turbo,oai_token-act-pair
+133,gpt2-small,8-res_fs768-jb,127,references to financial transactions or payments,gpt-3.5-turbo,oai_token-act-pair
+134,gpt2-small,8-res_fs768-jb,128,mentions of specific locations or incidents involving them,gpt-3.5-turbo,oai_token-act-pair
+135,gpt2-small,8-res_fs768-jb,129,texts related to career resignations and police investigations,gpt-3.5-turbo,oai_token-act-pair
+136,gpt2-small,8-res_fs768-jb,130,phrases related to interior design and social interactions happening in a specific setting,gpt-3.5-turbo,oai_token-act-pair
+137,gpt2-small,8-res_fs768-jb,131,information related to global politics and current events,gpt-3.5-turbo,oai_token-act-pair
+138,gpt2-small,8-res_fs768-jb,132,statements related to political figures and their actions or behaviors,gpt-3.5-turbo,oai_token-act-pair
+139,gpt2-small,8-res_fs768-jb,133,"mentions of specific locations and organizations, along with a focus on issues and actions related to those entities",gpt-3.5-turbo,oai_token-act-pair
+140,gpt2-small,8-res_fs768-jb,134,"numbers and references to competition results, events, and achievements",gpt-3.5-turbo,oai_token-act-pair
+141,gpt2-small,8-res_fs768-jb,135,references to legal proceedings and crime-related activities,gpt-3.5-turbo,oai_token-act-pair
+142,gpt2-small,8-res_fs768-jb,136,information related to sports matches and player performances,gpt-3.5-turbo,oai_token-act-pair
+143,gpt2-small,8-res_fs768-jb,137,"references to elections and political campaigns, including specific election-related terms and activities",gpt-3.5-turbo,oai_token-act-pair
+144,gpt2-small,8-res_fs768-jb,138,names and entities related to prominent public figures or events,gpt-3.5-turbo,oai_token-act-pair
+145,gpt2-small,8-res_fs768-jb,139,words related to software or technology releases,gpt-3.5-turbo,oai_token-act-pair
+146,gpt2-small,8-res_fs768-jb,140,references to legal actions and law enforcement-related activities,gpt-3.5-turbo,oai_token-act-pair
+147,gpt2-small,8-res_fs768-jb,141,"content related to news, events, and community engagement",gpt-3.5-turbo,oai_token-act-pair
+148,gpt2-small,8-res_fs768-jb,143,"financial news related to fines, settlements, and legal actions",gpt-3.5-turbo,oai_token-act-pair
+149,gpt2-small,8-res_fs768-jb,144,mentions of chronological rankings or the order of events,gpt-3.5-turbo,oai_token-act-pair
+150,gpt2-small,8-res_fs768-jb,145,information related to weight loss studies and research,gpt-3.5-turbo,oai_token-act-pair
+151,gpt2-small,8-res_fs768-jb,146,"names of individuals in the fields of politics, sports, and entertainment",gpt-3.5-turbo,oai_token-act-pair
+152,gpt2-small,8-res_fs768-jb,147,information related to sports free agency,gpt-3.5-turbo,oai_token-act-pair
+153,gpt2-small,8-res_fs768-jb,148,"powerful verbs and adjectives related to strength, control, and authority",gpt-3.5-turbo,oai_token-act-pair
+154,gpt2-small,8-res_fs768-jb,149,phrases related to legal matters and actions taken by individuals or groups,gpt-3.5-turbo,oai_token-act-pair
+155,gpt2-small,8-res_fs768-jb,150,words related to legal and political matters,gpt-3.5-turbo,oai_token-act-pair
+156,gpt2-small,8-res_fs768-jb,151,repetitions of the word 'same',gpt-3.5-turbo,oai_token-act-pair
+157,gpt2-small,8-res_fs768-jb,152,mentions of social media URLs,gpt-3.5-turbo,oai_token-act-pair
+158,gpt2-small,8-res_fs768-jb,153,expressions of desire or intention,gpt-3.5-turbo,oai_token-act-pair
+159,gpt2-small,8-res_fs768-jb,154,words related to legal or criminal activities,gpt-3.5-turbo,oai_token-act-pair
+160,gpt2-small,8-res_fs768-jb,155,"words related to creating, building, and developing entities, systems, or relationships",gpt-3.5-turbo,oai_token-act-pair
+161,gpt2-small,8-res_fs768-jb,156,economic and financial terms and statistics,gpt-3.5-turbo,oai_token-act-pair
+162,gpt2-small,8-res_fs768-jb,157,information about fundraising campaigns and donations for various causes,gpt-3.5-turbo,oai_token-act-pair
+163,gpt2-small,8-res_fs768-jb,158,technical terms related to legal and intellectual property issues,gpt-3.5-turbo,oai_token-act-pair
+164,gpt2-small,8-res_fs768-jb,159,information related to news articles and current events,gpt-3.5-turbo,oai_token-act-pair
+165,gpt2-small,8-res_fs768-jb,160,"proper nouns such as locations, names, and organizations",gpt-3.5-turbo,oai_token-act-pair
+166,gpt2-small,8-res_fs768-jb,161,mentions of specific movie titles and characters from a superhero franchise,gpt-3.5-turbo,oai_token-act-pair
+167,gpt2-small,8-res_fs768-jb,162,"instances of the word ""even"" being used in a sentence to emphasize a particular point",gpt-3.5-turbo,oai_token-act-pair
+168,gpt2-small,8-res_fs768-jb,163,phrases related to various news events and articles,gpt-3.5-turbo,oai_token-act-pair
+169,gpt2-small,8-res_fs768-jb,164,questions or requests for information,gpt-3.5-turbo,oai_token-act-pair
+170,gpt2-small,8-res_fs768-jb,165,"terms related to laws, regulations, and judgments",gpt-3.5-turbo,oai_token-act-pair
+171,gpt2-small,8-res_fs768-jb,166,words related to technology and technical instructions,gpt-3.5-turbo,oai_token-act-pair
+172,gpt2-small,8-res_fs768-jb,167,references to legal cases and courtroom-related vocabulary,gpt-3.5-turbo,oai_token-act-pair
+173,gpt2-small,8-res_fs768-jb,168,"topics related to community events and initiatives, particularly focused on improving public safety and enhancing neighborhood connections",gpt-3.5-turbo,oai_token-act-pair
+174,gpt2-small,8-res_fs768-jb,169,mentions of specific dates in a variety of contexts,gpt-3.5-turbo,oai_token-act-pair
+175,gpt2-small,8-res_fs768-jb,170,terminology related to teamwork and group efforts,gpt-3.5-turbo,oai_token-act-pair
+176,gpt2-small,8-res_fs768-jb,171,positive or negative adjectives related to the quality of something,gpt-3.5-turbo,oai_token-act-pair
+177,gpt2-small,8-res_fs768-jb,172,information related to events and articles on a website,gpt-3.5-turbo,oai_token-act-pair
+178,gpt2-small,8-res_fs768-jb,173,"words related to different aspects of psychology, such as psychological status, personality traits, emotional intelligence, psychological distress, and psychological warfare",gpt-3.5-turbo,oai_token-act-pair
+179,gpt2-small,8-res_fs768-jb,174,"words related to emotions, opinions, and personal interactions",gpt-3.5-turbo,oai_token-act-pair
+180,gpt2-small,8-res_fs768-jb,175,mentions of albums and music-related information,gpt-3.5-turbo,oai_token-act-pair
+181,gpt2-small,8-res_fs768-jb,176,phrases related to attempting or making an effort towards achieving something,gpt-3.5-turbo,oai_token-act-pair
+182,gpt2-small,8-res_fs768-jb,177,words related to signing up or registering for services or events,gpt-3.5-turbo,oai_token-act-pair
+183,gpt2-small,8-res_fs768-jb,178,phrases related to discussions or opinions,gpt-3.5-turbo,oai_token-act-pair
+184,gpt2-small,8-res_fs768-jb,179,terms related to legal matters and regulatory standards,gpt-3.5-turbo,oai_token-act-pair
+185,gpt2-small,8-res_fs768-jb,180,phrases related to technical and contractual information,gpt-3.5-turbo,oai_token-act-pair
+186,gpt2-small,8-res_fs768-jb,181,"information related to government actions and policies, particularly concerning health and safety regulations",gpt-3.5-turbo,oai_token-act-pair
+187,gpt2-small,8-res_fs768-jb,182,"terms related to political control, governance structures, and legislative issues",gpt-3.5-turbo,oai_token-act-pair
+188,gpt2-small,8-res_fs768-jb,183,mentions of performing or participating in activities,gpt-3.5-turbo,oai_token-act-pair
+189,gpt2-small,8-res_fs768-jb,184,words related to political events and entities,gpt-3.5-turbo,oai_token-act-pair
+190,gpt2-small,8-res_fs768-jb,185,phrases related to political and legal issues,gpt-3.5-turbo,oai_token-act-pair
+191,gpt2-small,8-res_fs768-jb,186,emotional responses and reactions,gpt-3.5-turbo,oai_token-act-pair
+192,gpt2-small,8-res_fs768-jb,187,percentage values and demographic information,gpt-3.5-turbo,oai_token-act-pair
+193,gpt2-small,8-res_fs768-jb,188,"proper nouns and specific names of people, locations, or titles",gpt-3.5-turbo,oai_token-act-pair
+194,gpt2-small,8-res_fs768-jb,189,mentions of and references to people,gpt-3.5-turbo,oai_token-act-pair
+195,gpt2-small,8-res_fs768-jb,190,references to real estate development and community projects,gpt-3.5-turbo,oai_token-act-pair
+196,gpt2-small,8-res_fs768-jb,191,phrases related to storytelling or fictional events,gpt-3.5-turbo,oai_token-act-pair
+197,gpt2-small,8-res_fs768-jb,192,"facts, numbers, statistics, and quoted statements in the context of reports, analysis, and documentation",gpt-3.5-turbo,oai_token-act-pair
+198,gpt2-small,8-res_fs768-jb,193,"places, political entities, and activities related to government and international relations",gpt-3.5-turbo,oai_token-act-pair
+199,gpt2-small,8-res_fs768-jb,195,"sentences with positive sentiment, expressions of gratitude, and requests for feedback",gpt-3.5-turbo,oai_token-act-pair
+200,gpt2-small,8-res_fs768-jb,196,"information related to educational topics, specifically microlearning and meditation practices",gpt-3.5-turbo,oai_token-act-pair
+201,gpt2-small,8-res_fs768-jb,197,"confession-related phrases, such as ""confessing,"" ""confessed,"" and ""confession.""",gpt-3.5-turbo,oai_token-act-pair
+202,gpt2-small,8-res_fs768-jb,198,phrases related to politics and governmental activities,gpt-3.5-turbo,oai_token-act-pair
+203,gpt2-small,8-res_fs768-jb,199,news-related words and phrases,gpt-3.5-turbo,oai_token-act-pair
+204,gpt2-small,8-res_fs768-jb,200,reasoning or explanation related to decisions,gpt-3.5-turbo,oai_token-act-pair
+205,gpt2-small,8-res_fs768-jb,201,phrases related to actions or settings,gpt-3.5-turbo,oai_token-act-pair
+206,gpt2-small,8-res_fs768-jb,202,social issues related to inequality and gender biases,gpt-3.5-turbo,oai_token-act-pair
+207,gpt2-small,8-res_fs768-jb,203,phrases related to advice and criticism,gpt-3.5-turbo,oai_token-act-pair
+208,gpt2-small,8-res_fs768-jb,204,terms related to different parts of the body,gpt-3.5-turbo,oai_token-act-pair
+209,gpt2-small,8-res_fs768-jb,205,quotes within double quotation marks,gpt-3.5-turbo,oai_token-act-pair
+210,gpt2-small,8-res_fs768-jb,206,mentions of decision-making and planning in political or official contexts,gpt-3.5-turbo,oai_token-act-pair
+211,gpt2-small,8-res_fs768-jb,207,"phrases related to emails, sending messages, and online communication",gpt-3.5-turbo,oai_token-act-pair
+212,gpt2-small,8-res_fs768-jb,208,news articles related to various government policies and regulations,gpt-3.5-turbo,oai_token-act-pair
+213,gpt2-small,8-res_fs768-jb,209,"phrases related to classified information, security, and sensitive matters",gpt-3.5-turbo,oai_token-act-pair
+214,gpt2-small,8-res_fs768-jb,210,"instances of the word ""taken"", as well as related phrases like ""taken out"" or ""taken hold.""",gpt-3.5-turbo,oai_token-act-pair
+215,gpt2-small,8-res_fs768-jb,211,expressions of time sequence,gpt-3.5-turbo,oai_token-act-pair
+216,gpt2-small,8-res_fs768-jb,212,questions,gpt-3.5-turbo,oai_token-act-pair
+217,gpt2-small,8-res_fs768-jb,213,names of people and positions,gpt-3.5-turbo,oai_token-act-pair
+218,gpt2-small,8-res_fs768-jb,214,legal terms and actions,gpt-3.5-turbo,oai_token-act-pair
+219,gpt2-small,8-res_fs768-jb,215,"sensitive topics related to sexual assault, abuse, and misconduct",gpt-3.5-turbo,oai_token-act-pair
+220,gpt2-small,8-res_fs768-jb,216,words related to alternatives and options in various contexts,gpt-3.5-turbo,oai_token-act-pair
+221,gpt2-small,8-res_fs768-jb,217,references to legal or criminal activities,gpt-3.5-turbo,oai_token-act-pair
+222,gpt2-small,8-res_fs768-jb,218,"phrases related to durations of time, especially when referring to the past",gpt-3.5-turbo,oai_token-act-pair
+223,gpt2-small,8-res_fs768-jb,219,"names of events, places, and organizations",gpt-3.5-turbo,oai_token-act-pair
+224,gpt2-small,8-res_fs768-jb,220, mentions of potential risks or causes related to environmental issues,gpt-3.5-turbo,oai_token-act-pair
+225,gpt2-small,8-res_fs768-jb,221,"phrases containing the words 'no time', 'any way', 'season', 'primaries', 'others', 'Tor', 'virtual', 'game', 'force', 'comp', 'et', 'turning', 'Flint', 'statement', 'doubt', 'House',",gpt-3.5-turbo,oai_token-act-pair
+226,gpt2-small,8-res_fs768-jb,222,words related to defense or protection against potential harm or danger,gpt-3.5-turbo,oai_token-act-pair
+227,gpt2-small,8-res_fs768-jb,223,"proper nouns or names starting with the letter ""G""",gpt-3.5-turbo,oai_token-act-pair
+228,gpt2-small,8-res_fs768-jb,224,technical terms related to software development and data analysis,gpt-3.5-turbo,oai_token-act-pair
+229,gpt2-small,8-res_fs768-jb,225,information related to press statements and efforts to reach a spokesperson for comments or responses,gpt-3.5-turbo,oai_token-act-pair
+230,gpt2-small,8-res_fs768-jb,226,references to political figures and events,gpt-3.5-turbo,oai_token-act-pair
+231,gpt2-small,8-res_fs768-jb,227,phrases related to specific locations (like cities or areas),gpt-3.5-turbo,oai_token-act-pair
+232,gpt2-small,8-res_fs768-jb,228,legal terms and names related to lawsuits and cases,gpt-3.5-turbo,oai_token-act-pair
+233,gpt2-small,8-res_fs768-jb,229,numbers and proper names,gpt-3.5-turbo,oai_token-act-pair
+234,gpt2-small,8-res_fs768-jb,230,phrases related to job applications and career experiences,gpt-3.5-turbo,oai_token-act-pair
+235,gpt2-small,8-res_fs768-jb,231,adjectives describing emotional or impactful concepts,gpt-3.5-turbo,oai_token-act-pair
+236,gpt2-small,8-res_fs768-jb,232,numbers in a specific context or setting,gpt-3.5-turbo,oai_token-act-pair
+237,gpt2-small,8-res_fs768-jb,233,specific technical terms related to software development and programming,gpt-3.5-turbo,oai_token-act-pair
+238,gpt2-small,8-res_fs768-jb,234,information related to legal documents and regulations,gpt-3.5-turbo,oai_token-act-pair
+239,gpt2-small,8-res_fs768-jb,235,negative statements or contradictions,gpt-3.5-turbo,oai_token-act-pair
+240,gpt2-small,8-res_fs768-jb,236,political terms related to government and organizations,gpt-3.5-turbo,oai_token-act-pair
+241,gpt2-small,8-res_fs768-jb,237,mentions of specific persons and their roles or actions,gpt-3.5-turbo,oai_token-act-pair
+242,gpt2-small,8-res_fs768-jb,238,words related to renewable energy sources and energy efficient practices,gpt-3.5-turbo,oai_token-act-pair
+243,gpt2-small,8-res_fs768-jb,239,imperative verbs followed by direct objects,gpt-3.5-turbo,oai_token-act-pair
+244,gpt2-small,8-res_fs768-jb,240,"mentions related to television, television shows, and television personalities",gpt-3.5-turbo,oai_token-act-pair
+245,gpt2-small,8-res_fs768-jb,241,phrases related to national and government issues,gpt-3.5-turbo,oai_token-act-pair
+246,gpt2-small,8-res_fs768-jb,242," social issues and discussions around rights, work, and opportunities",gpt-3.5-turbo,oai_token-act-pair
+247,gpt2-small,8-res_fs768-jb,243,"proper nouns related to various professions and roles, such as pastors, painters, smugglers, traders, chefs, artists, dealers, journalists, judges, and writers",gpt-3.5-turbo,oai_token-act-pair
+248,gpt2-small,8-res_fs768-jb,244,"information related to business and technology companies like Amazon, Sony, Microsoft, and Nvidia, as well as their product launches, developments, and announcements",gpt-3.5-turbo,oai_token-act-pair
+249,gpt2-small,8-res_fs768-jb,245,"words related to legal, political, and governmental topics",gpt-3.5-turbo,oai_token-act-pair
+250,gpt2-small,8-res_fs768-jb,246,names or parts of names of computer software or systems,gpt-3.5-turbo,oai_token-act-pair
+251,gpt2-small,8-res_fs768-jb,247,phrases related to falling,gpt-3.5-turbo,oai_token-act-pair
+252,gpt2-small,8-res_fs768-jb,248,sequential events or steps in a process,gpt-3.5-turbo,oai_token-act-pair
+253,gpt2-small,8-res_fs768-jb,249,"units of measurement, such as feet, centimeters, and kilometers",gpt-3.5-turbo,oai_token-act-pair
+254,gpt2-small,8-res_fs768-jb,250,"instances of the word ""working"" followed by different context",gpt-3.5-turbo,oai_token-act-pair
+255,gpt2-small,8-res_fs768-jb,251,"words related to crimes, shootings, and violence",gpt-3.5-turbo,oai_token-act-pair
+256,gpt2-small,8-res_fs768-jb,252,"information related to financial transactions, deals, and amounts of money",gpt-3.5-turbo,oai_token-act-pair
+257,gpt2-small,8-res_fs768-jb,253,"forms of emphasis, such as exclamation marks or capitalized words, which indicate strong emotions or stress",gpt-3.5-turbo,oai_token-act-pair
+258,gpt2-small,8-res_fs768-jb,254,statements of regret or hypothetical scenarios in past tense,gpt-3.5-turbo,oai_token-act-pair
+259,gpt2-small,8-res_fs768-jb,255,"names, terms, and phrases associated with chess and various languages",gpt-3.5-turbo,oai_token-act-pair
+260,gpt2-small,8-res_fs768-jb,256,verbs related to explaining or categorizing,gpt-3.5-turbo,oai_token-act-pair
+261,gpt2-small,8-res_fs768-jb,257,comparisons in terms of improvement or decline over time,gpt-3.5-turbo,oai_token-act-pair
+262,gpt2-small,8-res_fs768-jb,258,phrases related to commerce and transactions,gpt-3.5-turbo,oai_token-act-pair
+263,gpt2-small,8-res_fs768-jb,259,information related to definitions and explanations,gpt-3.5-turbo,oai_token-act-pair
+264,gpt2-small,8-res_fs768-jb,260,phrases related to politics and news events,gpt-3.5-turbo,oai_token-act-pair
+265,gpt2-small,8-res_fs768-jb,261,"numerical values and measurements indicating distance, temperature, or physical attributes",gpt-3.5-turbo,oai_token-act-pair
+266,gpt2-small,8-res_fs768-jb,262,terms related to medical professions and procedures,gpt-3.5-turbo,oai_token-act-pair
+267,gpt2-small,8-res_fs768-jb,263,phrases related to competition and performance evaluation,gpt-3.5-turbo,oai_token-act-pair
+268,gpt2-small,8-res_fs768-jb,264,adverbs and adjectives that express doubt or certainty,gpt-3.5-turbo,oai_token-act-pair
+269,gpt2-small,8-res_fs768-jb,265,statements about physical abuse,gpt-3.5-turbo,oai_token-act-pair
+270,gpt2-small,8-res_fs768-jb,266,"information related to political and social issues, including crime statistics and legislative updates",gpt-3.5-turbo,oai_token-act-pair
+271,gpt2-small,8-res_fs768-jb,267,descriptions of recent events and issues in various communities,gpt-3.5-turbo,oai_token-act-pair
+272,gpt2-small,8-res_fs768-jb,268,words related to technical jargon and procedures in a formal context,gpt-3.5-turbo,oai_token-act-pair
+273,gpt2-small,8-res_fs768-jb,269,"medical or health-related terms, especially those related to mental health or conditions requiring care and protection, along with terms related to societal issues and controversies",gpt-3.5-turbo,oai_token-act-pair
+274,gpt2-small,8-res_fs768-jb,270,phrases related to governmental organizations and official reports,gpt-3.5-turbo,oai_token-act-pair
+275,gpt2-small,8-res_fs768-jb,271,economic and political discussion related to blame assignment and social issues,gpt-3.5-turbo,oai_token-act-pair
+276,gpt2-small,8-res_fs768-jb,272,"mentions of news, politics, events, and tech-related topics",gpt-3.5-turbo,oai_token-act-pair
+277,gpt2-small,8-res_fs768-jb,273,words related to deadlines and time urgency,gpt-3.5-turbo,oai_token-act-pair
+278,gpt2-small,8-res_fs768-jb,274,sentences that introduce or discuss different topics,gpt-3.5-turbo,oai_token-act-pair
+279,gpt2-small,8-res_fs768-jb,275,descriptions or references to world records or superlatives,gpt-3.5-turbo,oai_token-act-pair
+280,gpt2-small,8-res_fs768-jb,276,words related to negative emotions or strong opinions,gpt-3.5-turbo,oai_token-act-pair
+281,gpt2-small,8-res_fs768-jb,277,phrases related to expressing personal opinions or perspectives,gpt-3.5-turbo,oai_token-act-pair
+282,gpt2-small,8-res_fs768-jb,278,terms related to quantity,gpt-3.5-turbo,oai_token-act-pair
+283,gpt2-small,8-res_fs768-jb,279,"names of political figures, government positions, and organizations",gpt-3.5-turbo,oai_token-act-pair
+284,gpt2-small,8-res_fs768-jb,280,"actions, events, and processes related to conflict and resolution",gpt-3.5-turbo,oai_token-act-pair
+285,gpt2-small,8-res_fs768-jb,281,verbs related to physical actions and movement,gpt-3.5-turbo,oai_token-act-pair
+286,gpt2-small,8-res_fs768-jb,282,short timeframes and events that occur within them,gpt-3.5-turbo,oai_token-act-pair
+287,gpt2-small,8-res_fs768-jb,283,scientific terms and concepts related to research and studies,gpt-3.5-turbo,oai_token-act-pair
+288,gpt2-small,8-res_fs768-jb,284,references to actions that are being redone or repeated,gpt-3.5-turbo,oai_token-act-pair
+289,gpt2-small,8-res_fs768-jb,285,mathematical equations and notation,gpt-3.5-turbo,oai_token-act-pair
+290,gpt2-small,8-res_fs768-jb,286,"names and abbreviations, as well as words related to physical states of being or actions like ""sleep,"" ""suicide,"" and ""aggressiveness.""",gpt-3.5-turbo,oai_token-act-pair
+291,gpt2-small,8-res_fs768-jb,287,words related to speed or fast movement,gpt-3.5-turbo,oai_token-act-pair
+292,gpt2-small,8-res_fs768-jb,288,technical terms related to technology and weaponry,gpt-3.5-turbo,oai_token-act-pair
+293,gpt2-small,8-res_fs768-jb,289,locations or institutions related to educational or legal matters,gpt-3.5-turbo,oai_token-act-pair
+294,gpt2-small,8-res_fs768-jb,290, words related to political news and international relations,gpt-3.5-turbo,oai_token-act-pair
+295,gpt2-small,8-res_fs768-jb,291,"questions starting with ""Why""",gpt-3.5-turbo,oai_token-act-pair
+296,gpt2-small,8-res_fs768-jb,292,names and numbers,gpt-3.5-turbo,oai_token-act-pair
+297,gpt2-small,8-res_fs768-jb,293,phrases related to delays or hindrances,gpt-3.5-turbo,oai_token-act-pair
+298,gpt2-small,8-res_fs768-jb,294,mentions of specific sports teams,gpt-3.5-turbo,oai_token-act-pair
+299,gpt2-small,8-res_fs768-jb,295,locations within a building related to events or conflicts,gpt-3.5-turbo,oai_token-act-pair
+300,gpt2-small,8-res_fs768-jb,296,phrases related to technical specifications and features,gpt-3.5-turbo,oai_token-act-pair
+301,gpt2-small,8-res_fs768-jb,297,"similes using the word ""like""",gpt-3.5-turbo,oai_token-act-pair
+302,gpt2-small,8-res_fs768-jb,298,"verbs related to causing or forcing actions, often with negative consequences",gpt-3.5-turbo,oai_token-act-pair
+303,gpt2-small,8-res_fs768-jb,299,"proper nouns and technical terms related to companies, locations, and products",gpt-3.5-turbo,oai_token-act-pair
+304,gpt2-small,8-res_fs768-jb,300,technical terms and concepts related to software development and technology,gpt-3.5-turbo,oai_token-act-pair
+305,gpt2-small,8-res_fs768-jb,301,phrases related to time and temporal concepts,gpt-3.5-turbo,oai_token-act-pair
+306,gpt2-small,8-res_fs768-jb,302,details related to violent crimes and legal proceedings,gpt-3.5-turbo,oai_token-act-pair
+307,gpt2-small,8-res_fs768-jb,303,phrases related to protective measures or precautions,gpt-3.5-turbo,oai_token-act-pair
+308,gpt2-small,8-res_fs768-jb,304,content related to guides or step-by-step processes on keeping resolutions or making changes,gpt-3.5-turbo,oai_token-act-pair
+309,gpt2-small,8-res_fs768-jb,305,steps or instructions,gpt-3.5-turbo,oai_token-act-pair
+310,gpt2-small,8-res_fs768-jb,306,personal pronouns followed by a verb indicating action or belief,gpt-3.5-turbo,oai_token-act-pair
+311,gpt2-small,8-res_fs768-jb,307,"information about events and incidents, such as accidents, political statements, and TV show renewals",gpt-3.5-turbo,oai_token-act-pair
+312,gpt2-small,8-res_fs768-jb,308,"recipe instructions, particularly for cooking savory dishes",gpt-3.5-turbo,oai_token-act-pair
+313,gpt2-small,8-res_fs768-jb,309, historical references and events,gpt-3.5-turbo,oai_token-act-pair
+314,gpt2-small,8-res_fs768-jb,310,years expressed as numerical ranges,gpt-3.5-turbo,oai_token-act-pair
+315,gpt2-small,8-res_fs768-jb,311,3D-related technology terms and numbers,gpt-3.5-turbo,oai_token-act-pair
+316,gpt2-small,8-res_fs768-jb,312,"words related to coding, programming, and technology",gpt-3.5-turbo,oai_token-act-pair
+317,gpt2-small,8-res_fs768-jb,313,"references to publications such as magazines, blogs, reports, and firms within textual contexts",gpt-3.5-turbo,oai_token-act-pair
+318,gpt2-small,8-res_fs768-jb,314,"information related to items or objects, possibly focusing on craftsmanship or design details",gpt-3.5-turbo,oai_token-act-pair
+319,gpt2-small,8-res_fs768-jb,315,mentions of current US politics and related events,gpt-3.5-turbo,oai_token-act-pair
+320,gpt2-small,8-res_fs768-jb,316,phrases related to contentious or divisive topics in politics or society,gpt-3.5-turbo,oai_token-act-pair
+321,gpt2-small,8-res_fs768-jb,317,words related to political and economic discussions,gpt-3.5-turbo,oai_token-act-pair
+322,gpt2-small,8-res_fs768-jb,318,phrases related to time spent or invested in various activities or situations,gpt-3.5-turbo,oai_token-act-pair
+323,gpt2-small,8-res_fs768-jb,319,phrases related to business and organizational positions,gpt-3.5-turbo,oai_token-act-pair
+324,gpt2-small,8-res_fs768-jb,320,words related to motion or directional movement,gpt-3.5-turbo,oai_token-act-pair
+325,gpt2-small,8-res_fs768-jb,321,"political terms and entities, particularly related to the Democratic Party",gpt-3.5-turbo,oai_token-act-pair
+326,gpt2-small,8-res_fs768-jb,322,calls to action or requests for assistance,gpt-3.5-turbo,oai_token-act-pair
+327,gpt2-small,8-res_fs768-jb,323,financial and economic terms and discussions,gpt-3.5-turbo,oai_token-act-pair
+328,gpt2-small,8-res_fs768-jb,324,"references to protests and demonstrations, particularly related to social and political activism",gpt-3.5-turbo,oai_token-act-pair
+329,gpt2-small,8-res_fs768-jb,325,times and sequences,gpt-3.5-turbo,oai_token-act-pair
+330,gpt2-small,8-res_fs768-jb,326,numerical and measurement-related terms and concepts,gpt-3.5-turbo,oai_token-act-pair
+331,gpt2-small,8-res_fs768-jb,327,religious terms and concepts,gpt-3.5-turbo,oai_token-act-pair
+332,gpt2-small,8-res_fs768-jb,328,corporate information and contact details,gpt-3.5-turbo,oai_token-act-pair
+333,gpt2-small,8-res_fs768-jb,329,"contractions combining ""while"" and ""it is"" or ""while"" and ""we were""",gpt-3.5-turbo,oai_token-act-pair
+334,gpt2-small,8-res_fs768-jb,330,numeric values,gpt-3.5-turbo,oai_token-act-pair
+335,gpt2-small,8-res_fs768-jb,331,phrases related to politics and government,gpt-3.5-turbo,oai_token-act-pair
+336,gpt2-small,8-res_fs768-jb,332,statements or actions related to public figures or political events,gpt-3.5-turbo,oai_token-act-pair
+337,gpt2-small,8-res_fs768-jb,333,political terms and names,gpt-3.5-turbo,oai_token-act-pair
+338,gpt2-small,8-res_fs768-jb,334,religious references and beliefs,gpt-3.5-turbo,oai_token-act-pair
+339,gpt2-small,8-res_fs768-jb,335,names of individuals involved in legal disputes or conflict situations,gpt-3.5-turbo,oai_token-act-pair
+340,gpt2-small,8-res_fs768-jb,336,phrases related to actions and activities over a period of time,gpt-3.5-turbo,oai_token-act-pair
+341,gpt2-small,8-res_fs768-jb,337,"technical and academic terms, such as specific subject areas, institutions, and academic titles",gpt-3.5-turbo,oai_token-act-pair
+342,gpt2-small,8-res_fs768-jb,338,proper nouns and technical terms related to finance and legal matters,gpt-3.5-turbo,oai_token-act-pair
+343,gpt2-small,8-res_fs768-jb,339,terms related to software installation and activation processes,gpt-3.5-turbo,oai_token-act-pair
+344,gpt2-small,8-res_fs768-jb,340,"information related to a baseball game, including player actions and scoring",gpt-3.5-turbo,oai_token-act-pair
+345,gpt2-small,8-res_fs768-jb,341,words related to technical processes and methodologies,gpt-3.5-turbo,oai_token-act-pair
+346,gpt2-small,8-res_fs768-jb,342,"information related to storytelling, movies, and specific events",gpt-3.5-turbo,oai_token-act-pair
+347,gpt2-small,8-res_fs768-jb,343,language related to government policies and regulations,gpt-3.5-turbo,oai_token-act-pair
+348,gpt2-small,8-res_fs768-jb,344,"verbs related to research, exploration, feelings, and financial support",gpt-3.5-turbo,oai_token-act-pair
+349,gpt2-small,8-res_fs768-jb,345,phrases related to accusations or responsibility,gpt-3.5-turbo,oai_token-act-pair
+350,gpt2-small,8-res_fs768-jb,346, words related to technology products and features,gpt-3.5-turbo,oai_token-act-pair
+351,gpt2-small,8-res_fs768-jb,347,computer programming terms related to data manipulation and analysis,gpt-3.5-turbo,oai_token-act-pair
+352,gpt2-small,8-res_fs768-jb,348,information related to sports trades and team strategies,gpt-3.5-turbo,oai_token-act-pair
+353,gpt2-small,8-res_fs768-jb,349,phrases related to technology terms and agreements,gpt-3.5-turbo,oai_token-act-pair
+354,gpt2-small,8-res_fs768-jb,350,references to detailed descriptions and discussions around various topics,gpt-3.5-turbo,oai_token-act-pair
+355,gpt2-small,8-res_fs768-jb,351,specific numbers related to statistics or measurements,gpt-3.5-turbo,oai_token-act-pair
+356,gpt2-small,8-res_fs768-jb,352,descriptions of fatal incidents or accidents,gpt-3.5-turbo,oai_token-act-pair
+357,gpt2-small,8-res_fs768-jb,353,key points or important information within a text,gpt-3.5-turbo,oai_token-act-pair
+358,gpt2-small,8-res_fs768-jb,354,references to political events and government actions,gpt-3.5-turbo,oai_token-act-pair
+359,gpt2-small,8-res_fs768-jb,355,questions related to self-reflection and self-doubt,gpt-3.5-turbo,oai_token-act-pair
+360,gpt2-small,8-res_fs768-jb,356,names and titles of individuals,gpt-3.5-turbo,oai_token-act-pair
+361,gpt2-small,8-res_fs768-jb,357,"NFL-related information - such as player names, team actions, contracts, and game outcomes",gpt-3.5-turbo,oai_token-act-pair
+362,gpt2-small,8-res_fs768-jb,358,"the word ""as"" at the start of sentences",gpt-3.5-turbo,oai_token-act-pair
+363,gpt2-small,8-res_fs768-jb,359,"phrases related to large scale entities or concepts, particularly focusing on the term ""big.""",gpt-3.5-turbo,oai_token-act-pair
+364,gpt2-small,8-res_fs768-jb,360,"information related to conferences, exhibitions, and workshops",gpt-3.5-turbo,oai_token-act-pair
+365,gpt2-small,8-res_fs768-jb,361,words related to political movements and civil rights activism,gpt-3.5-turbo,oai_token-act-pair
+366,gpt2-small,8-res_fs768-jb,362,company names and financial information,gpt-3.5-turbo,oai_token-act-pair
+367,gpt2-small,8-res_fs768-jb,363,references to business activities and trade relations,gpt-3.5-turbo,oai_token-act-pair
+368,gpt2-small,8-res_fs768-jb,364,terms related to legal actions and disputes,gpt-3.5-turbo,oai_token-act-pair
+369,gpt2-small,8-res_fs768-jb,365,"terms related to reports or analyses of diverse subjects, potentially aiming at identification or assessment",gpt-3.5-turbo,oai_token-act-pair
+370,gpt2-small,8-res_fs768-jb,366,references to specific dates or historical events,gpt-3.5-turbo,oai_token-act-pair
+371,gpt2-small,8-res_fs768-jb,367,"mentions of specific items being painted, such as objects and buildings",gpt-3.5-turbo,oai_token-act-pair
+372,gpt2-small,8-res_fs768-jb,368,"instances related to self-reflection, personal experience, and self-identity",gpt-3.5-turbo,oai_token-act-pair
+373,gpt2-small,8-res_fs768-jb,369,phrases related to state institutions and processes,gpt-3.5-turbo,oai_token-act-pair
+374,gpt2-small,8-res_fs768-jb,370,"animals, particularly tigers, and incidents involving them like attacks or encounters",gpt-3.5-turbo,oai_token-act-pair
+375,gpt2-small,8-res_fs768-jb,371,"discussion of legal actions, investigations, and consequences",gpt-3.5-turbo,oai_token-act-pair
+376,gpt2-small,8-res_fs768-jb,372,"mentions of geographical locations, particularly cities and universities, especially in the context of news articles",gpt-3.5-turbo,oai_token-act-pair
+377,gpt2-small,8-res_fs768-jb,373,sentences related to medical research and health conditions,gpt-3.5-turbo,oai_token-act-pair
+378,gpt2-small,8-res_fs768-jb,374,"news or journalistic content, including information about interviews, sports events, political developments, legal matters, and technology releases",gpt-3.5-turbo,oai_token-act-pair
+379,gpt2-small,8-res_fs768-jb,375,situations where choices or decisions need to be made,gpt-3.5-turbo,oai_token-act-pair
+380,gpt2-small,8-res_fs768-jb,376,"technical terms related to various products and services, including names of items in categories like household cleaning items, softwares, and websites",gpt-3.5-turbo,oai_token-act-pair
+381,gpt2-small,8-res_fs768-jb,377, mentions of legal terms and regulations,gpt-3.5-turbo,oai_token-act-pair
+382,gpt2-small,8-res_fs768-jb,378,details or prompts related to newsletter sign-ups,gpt-3.5-turbo,oai_token-act-pair
+383,gpt2-small,8-res_fs768-jb,379,"phrases related to detailed information, releases, and summaries of various media content such as articles, episodes, and events",gpt-3.5-turbo,oai_token-act-pair
+384,gpt2-small,8-res_fs768-jb,380,"numerical measurements such as scores, statistics, or other quantifiable data",gpt-3.5-turbo,oai_token-act-pair
+385,gpt2-small,8-res_fs768-jb,381,phrases related to examining and discussing the policies and practices of a company,gpt-3.5-turbo,oai_token-act-pair
+386,gpt2-small,8-res_fs768-jb,382,terms related to public affairs and policies,gpt-3.5-turbo,oai_token-act-pair
+387,gpt2-small,8-res_fs768-jb,383,technical terms and descriptions related to web development or online content,gpt-3.5-turbo,oai_token-act-pair
+388,gpt2-small,8-res_fs768-jb,384,economic and financial terms and figures,gpt-3.5-turbo,oai_token-act-pair
+389,gpt2-small,8-res_fs768-jb,385,actions or events involving public disclosure or communication,gpt-3.5-turbo,oai_token-act-pair
+390,gpt2-small,8-res_fs768-jb,386,ingredients and cooking instructions in recipe-like text,gpt-3.5-turbo,oai_token-act-pair
+391,gpt2-small,8-res_fs768-jb,387,terms related to reality,gpt-3.5-turbo,oai_token-act-pair
+392,gpt2-small,8-res_fs768-jb,388,"phrases related to human aspects, such as human rights, health, and relationships",gpt-3.5-turbo,oai_token-act-pair
+393,gpt2-small,8-res_fs768-jb,390,mentions of statistics and comparisons between countries or regions,gpt-3.5-turbo,oai_token-act-pair
+394,gpt2-small,8-res_fs768-jb,391,"references to specific entities, possibly related to finance and medical practices",gpt-3.5-turbo,oai_token-act-pair
+395,gpt2-small,8-res_fs768-jb,392,references to criminal cases and legal proceedings,gpt-3.5-turbo,oai_token-act-pair
+396,gpt2-small,8-res_fs768-jb,393,"references to military, political, governmental, and structural organizations or individuals",gpt-3.5-turbo,oai_token-act-pair
+397,gpt2-small,8-res_fs768-jb,394,phrases related to meeting requirements or conditions,gpt-3.5-turbo,oai_token-act-pair
+398,gpt2-small,8-res_fs768-jb,395,"phrases related to personal experiences, events, or opinions",gpt-3.5-turbo,oai_token-act-pair
+399,gpt2-small,8-res_fs768-jb,396,phrases related to political and economic topics,gpt-3.5-turbo,oai_token-act-pair
+400,gpt2-small,8-res_fs768-jb,397,references to controversies and notable events in news and politics,gpt-3.5-turbo,oai_token-act-pair
+401,gpt2-small,8-res_fs768-jb,398,numerical values or measurements in a text,gpt-3.5-turbo,oai_token-act-pair
+402,gpt2-small,8-res_fs768-jb,399,instances in text that involve performing an action or deed,gpt-3.5-turbo,oai_token-act-pair
+403,gpt2-small,8-res_fs768-jb,400,descriptions related to political figures and government events,gpt-3.5-turbo,oai_token-act-pair
+404,gpt2-small,8-res_fs768-jb,401,phrases related to taking action or making decisions,gpt-3.5-turbo,oai_token-act-pair
+405,gpt2-small,8-res_fs768-jb,402,phrases related to personal development and self-improvement,gpt-3.5-turbo,oai_token-act-pair
+406,gpt2-small,8-res_fs768-jb,403,phrases related to controversial topics and opinions,gpt-3.5-turbo,oai_token-act-pair
+407,gpt2-small,8-res_fs768-jb,404,"mentions of historical, religious, and technical terms",gpt-3.5-turbo,oai_token-act-pair
+408,gpt2-small,8-res_fs768-jb,405,instances where something is discovered or located,gpt-3.5-turbo,oai_token-act-pair
+409,gpt2-small,8-res_fs768-jb,406,"terms related to healthcare, private services, and health policies",gpt-3.5-turbo,oai_token-act-pair
+410,gpt2-small,8-res_fs768-jb,407,keywords related to power sources and energy infrastructure,gpt-3.5-turbo,oai_token-act-pair
+411,gpt2-small,8-res_fs768-jb,408,"mentions of medical emergencies, medical conditions, and healthcare-related situations",gpt-3.5-turbo,oai_token-act-pair
+412,gpt2-small,8-res_fs768-jb,409,dialogue interactions between characters,gpt-3.5-turbo,oai_token-act-pair
+413,gpt2-small,8-res_fs768-jb,410,information related to political events and government actions,gpt-3.5-turbo,oai_token-act-pair
+414,gpt2-small,8-res_fs768-jb,411, words related to government programs or policies,gpt-3.5-turbo,oai_token-act-pair
+415,gpt2-small,8-res_fs768-jb,412,descriptions of events happening or anticipated,gpt-3.5-turbo,oai_token-act-pair
+416,gpt2-small,8-res_fs768-jb,413,phrases related to legal actions or criminal activities,gpt-3.5-turbo,oai_token-act-pair
+417,gpt2-small,8-res_fs768-jb,414,phrases related to sharing information or spreading knowledge,gpt-3.5-turbo,oai_token-act-pair
+418,gpt2-small,8-res_fs768-jb,415,words related to opposition or conflict,gpt-3.5-turbo,oai_token-act-pair
+419,gpt2-small,8-res_fs768-jb,416,"mentions of legal or political terms related to regulations, human rights, and government activities",gpt-3.5-turbo,oai_token-act-pair
+420,gpt2-small,8-res_fs768-jb,417,"statements related to partnerships, collaborations, and financial transactions",gpt-3.5-turbo,oai_token-act-pair
+421,gpt2-small,8-res_fs768-jb,418,addresses and locations,gpt-3.5-turbo,oai_token-act-pair
+422,gpt2-small,8-res_fs768-jb,419,phrases related to conspiracy theories and extremist groups,gpt-3.5-turbo,oai_token-act-pair
+423,gpt2-small,8-res_fs768-jb,420,descriptive words and phrases related to performance and behavior,gpt-3.5-turbo,oai_token-act-pair
+424,gpt2-small,8-res_fs768-jb,421,"information related to companies, products, and statistics",gpt-3.5-turbo,oai_token-act-pair
+425,gpt2-small,8-res_fs768-jb,422,information related to health and medical procedures,gpt-3.5-turbo,oai_token-act-pair
+426,gpt2-small,8-res_fs768-jb,423,"information related to significant events or operations, particularly focusing on historical events, economic activities, and record-breaking achievements",gpt-3.5-turbo,oai_token-act-pair
+427,gpt2-small,8-res_fs768-jb,424,phrases related to overcoming challenges and perseverance,gpt-3.5-turbo,oai_token-act-pair
+428,gpt2-small,8-res_fs768-jb,425,titles of publications or works,gpt-3.5-turbo,oai_token-act-pair
+429,gpt2-small,8-res_fs768-jb,426,keywords related to goals and aims,gpt-3.5-turbo,oai_token-act-pair
+430,gpt2-small,8-res_fs768-jb,427,"elements related to physical appearance and features of a character, such as eye color, facial hair, skin complexion, and body proportions",gpt-3.5-turbo,oai_token-act-pair
+431,gpt2-small,8-res_fs768-jb,428,references to early time periods or beginnings,gpt-3.5-turbo,oai_token-act-pair
+432,gpt2-small,8-res_fs768-jb,429,descriptions of cold weather and its effects on people and the environment,gpt-3.5-turbo,oai_token-act-pair
+433,gpt2-small,8-res_fs768-jb,430,legal and policy-related terms or discussions,gpt-3.5-turbo,oai_token-act-pair
+434,gpt2-small,8-res_fs768-jb,431,phrases related to training or education,gpt-3.5-turbo,oai_token-act-pair
+435,gpt2-small,8-res_fs768-jb,432,email addresses and social media usernames,gpt-3.5-turbo,oai_token-act-pair
+436,gpt2-small,8-res_fs768-jb,433,"the word ""Before"" at the beginning of text segments",gpt-3.5-turbo,oai_token-act-pair
+437,gpt2-small,8-res_fs768-jb,434,mentions of criminal records and legal situations,gpt-3.5-turbo,oai_token-act-pair
+438,gpt2-small,8-res_fs768-jb,435, phrases related to transformation or change,gpt-3.5-turbo,oai_token-act-pair
+439,gpt2-small,8-res_fs768-jb,436," information related to statistics and numbers, such as averages, percentages, and financial figures",gpt-3.5-turbo,oai_token-act-pair
+440,gpt2-small,8-res_fs768-jb,437,"phrases related to environmental and agricultural topics, such as carbon emissions, land use, conservation, and climate change impacts",gpt-3.5-turbo,oai_token-act-pair
+441,gpt2-small,8-res_fs768-jb,438,descriptions of various locations and events,gpt-3.5-turbo,oai_token-act-pair
+442,gpt2-small,8-res_fs768-jb,439,mentions of people's names,gpt-3.5-turbo,oai_token-act-pair
+443,gpt2-small,8-res_fs768-jb,440,lines of code and programming concepts related to functional programming and data structures,gpt-3.5-turbo,oai_token-act-pair
+444,gpt2-small,8-res_fs768-jb,441,"terms related to systems, policies, and guidelines",gpt-3.5-turbo,oai_token-act-pair
+445,gpt2-small,8-res_fs768-jb,442,scientific and research-related terms,gpt-3.5-turbo,oai_token-act-pair
+446,gpt2-small,8-res_fs768-jb,443,terms related to future possibilities or potentials,gpt-3.5-turbo,oai_token-act-pair
+447,gpt2-small,8-res_fs768-jb,444,dates expressed in years,gpt-3.5-turbo,oai_token-act-pair
+448,gpt2-small,8-res_fs768-jb,445,"information about notable people, including their biographical details and accomplishments",gpt-3.5-turbo,oai_token-act-pair
+449,gpt2-small,8-res_fs768-jb,446,"characters' names, titles, and place names from a specific movie or series",gpt-3.5-turbo,oai_token-act-pair
+450,gpt2-small,8-res_fs768-jb,447,"adjectives and phrases related to characteristics and behaviors, such as optimism, elegance, and relentlessness",gpt-3.5-turbo,oai_token-act-pair
+451,gpt2-small,8-res_fs768-jb,448,recommendations or advice related to health and well-being,gpt-3.5-turbo,oai_token-act-pair
+452,gpt2-small,8-res_fs768-jb,449,mentions of government actions or discussions related to government responses,gpt-3.5-turbo,oai_token-act-pair
+453,gpt2-small,8-res_fs768-jb,450,phrases related to making or receiving phone calls,gpt-3.5-turbo,oai_token-act-pair
+454,gpt2-small,8-res_fs768-jb,451,topics related to politics and governmental issues,gpt-3.5-turbo,oai_token-act-pair
+455,gpt2-small,8-res_fs768-jb,452,threatening language and confrontational interactions,gpt-3.5-turbo,oai_token-act-pair
+456,gpt2-small,8-res_fs768-jb,453, mentions of specific days of the week and financial terms,gpt-3.5-turbo,oai_token-act-pair
+457,gpt2-small,8-res_fs768-jb,454,"lines or phrases indicating a transition, evolution, or change in a process or situation",gpt-3.5-turbo,oai_token-act-pair
+458,gpt2-small,8-res_fs768-jb,455,"long, thoughtful statements or discussions on various topics",gpt-3.5-turbo,oai_token-act-pair
+459,gpt2-small,8-res_fs768-jb,456,phrases related to collaborations or agreements involving multiple parties,gpt-3.5-turbo,oai_token-act-pair
+460,gpt2-small,8-res_fs768-jb,457,phrases related to dedication and loyalty,gpt-3.5-turbo,oai_token-act-pair
+461,gpt2-small,8-res_fs768-jb,458,historical events and accomplishments,gpt-3.5-turbo,oai_token-act-pair
+462,gpt2-small,8-res_fs768-jb,459,"words related to elections, political victories, and political events",gpt-3.5-turbo,oai_token-act-pair
+463,gpt2-small,8-res_fs768-jb,460,"quotes or phrases starting with ""You know""",gpt-3.5-turbo,oai_token-act-pair
+464,gpt2-small,8-res_fs768-jb,461,past events or situations relating to people,gpt-3.5-turbo,oai_token-act-pair
+465,gpt2-small,8-res_fs768-jb,462,"content related to politics, policy, and healthcare discussions",gpt-3.5-turbo,oai_token-act-pair
+466,gpt2-small,8-res_fs768-jb,463,medical terms and drugs,gpt-3.5-turbo,oai_token-act-pair
+467,gpt2-small,8-res_fs768-jb,464,violent or aggressive actions and incidents,gpt-3.5-turbo,oai_token-act-pair
+468,gpt2-small,8-res_fs768-jb,465, words related to technology and manufacturing processes,gpt-3.5-turbo,oai_token-act-pair
+469,gpt2-small,8-res_fs768-jb,466,"phrases related to racial disparities, discrimination, and social inequities",gpt-3.5-turbo,oai_token-act-pair
+470,gpt2-small,8-res_fs768-jb,467,"political and economic themes related to government interventions, economic conditions, and ideological beliefs",gpt-3.5-turbo,oai_token-act-pair
+471,gpt2-small,8-res_fs768-jb,469,locations or spatial relationships,gpt-3.5-turbo,oai_token-act-pair
+472,gpt2-small,8-res_fs768-jb,470,professional titles and names in a document,gpt-3.5-turbo,oai_token-act-pair
+473,gpt2-small,8-res_fs768-jb,471,"arguments and claims related to misconceptions, falsehoods, and controversies",gpt-3.5-turbo,oai_token-act-pair
+474,gpt2-small,8-res_fs768-jb,472,instances of numerical values or symbols,gpt-3.5-turbo,oai_token-act-pair
+475,gpt2-small,8-res_fs768-jb,473,references to specific locations or events with historical or cultural significance,gpt-3.5-turbo,oai_token-act-pair
+476,gpt2-small,8-res_fs768-jb,474,names or terms in a variety of languages,gpt-3.5-turbo,oai_token-act-pair
+477,gpt2-small,8-res_fs768-jb,475,names of locations and possibly names of people,gpt-3.5-turbo,oai_token-act-pair
+478,gpt2-small,8-res_fs768-jb,476,"questions, particularly starting with the word ""How""",gpt-3.5-turbo,oai_token-act-pair
+479,gpt2-small,8-res_fs768-jb,477,locations or directions mentioned in a document,gpt-3.5-turbo,oai_token-act-pair
+480,gpt2-small,8-res_fs768-jb,478,phrases related to political and historical events,gpt-3.5-turbo,oai_token-act-pair
+481,gpt2-small,8-res_fs768-jb,479,news articles related to sports events and criminal activities,gpt-3.5-turbo,oai_token-act-pair
+482,gpt2-small,8-res_fs768-jb,480,references to historical events or political statements,gpt-3.5-turbo,oai_token-act-pair
+483,gpt2-small,8-res_fs768-jb,481,parentheses with numbers inside them,gpt-3.5-turbo,oai_token-act-pair
+484,gpt2-small,8-res_fs768-jb,482,phrases related to scientific research and organizations,gpt-3.5-turbo,oai_token-act-pair
+485,gpt2-small,8-res_fs768-jb,483,"words related to political and economic policies and conditions, specifically related to tax, government benefits, social programs, and public figures",gpt-3.5-turbo,oai_token-act-pair
+486,gpt2-small,8-res_fs768-jb,484,controversial or politically charged topics and events,gpt-3.5-turbo,oai_token-act-pair
+487,gpt2-small,8-res_fs768-jb,485,mentions of specific historic events or pop culture references,gpt-3.5-turbo,oai_token-act-pair
+488,gpt2-small,8-res_fs768-jb,486,"countries, nationalities, and related geopolitical terms",gpt-3.5-turbo,oai_token-act-pair
+489,gpt2-small,8-res_fs768-jb,487,statements related to education and political issues,gpt-3.5-turbo,oai_token-act-pair
+490,gpt2-small,8-res_fs768-jb,488,statistical and numerical data patterns,gpt-3.5-turbo,oai_token-act-pair
+491,gpt2-small,8-res_fs768-jb,490,"information related to movies, TV series, and productions",gpt-3.5-turbo,oai_token-act-pair
+492,gpt2-small,8-res_fs768-jb,491,phrases related to important aspects or components,gpt-3.5-turbo,oai_token-act-pair
+493,gpt2-small,8-res_fs768-jb,492,"locations and government-related terms, especially related to the United States government and its activities",gpt-3.5-turbo,oai_token-act-pair
+494,gpt2-small,8-res_fs768-jb,493,examples of social issues and societal disparities,gpt-3.5-turbo,oai_token-act-pair
+495,gpt2-small,8-res_fs768-jb,494,"names, particularly in constructions that contain ""Turn""",gpt-3.5-turbo,oai_token-act-pair
+496,gpt2-small,8-res_fs768-jb,495,proper nouns related to politics and news,gpt-3.5-turbo,oai_token-act-pair
+497,gpt2-small,8-res_fs768-jb,496,comparisons or evaluations involving various measurements or attributes,gpt-3.5-turbo,oai_token-act-pair
+498,gpt2-small,8-res_fs768-jb,497,NFL team names and geographical locations,gpt-3.5-turbo,oai_token-act-pair
+499,gpt2-small,8-res_fs768-jb,498,"terms related to sports, competitions, and events",gpt-3.5-turbo,oai_token-act-pair
+500,gpt2-small,8-res_fs768-jb,499,"the word ""look"" followed by a number indicating the intensity or manner of looking",gpt-3.5-turbo,oai_token-act-pair
+501,gpt2-small,8-res_fs768-jb,500,HTML tags and code snippets,gpt-3.5-turbo,oai_token-act-pair
+502,gpt2-small,8-res_fs768-jb,501,The main thing this neuron does is find keywords related to long-term aspects of various topics,gpt-3.5-turbo,oai_token-act-pair
+503,gpt2-small,8-res_fs768-jb,502,"words related to vehicles, driving, and transportation",gpt-3.5-turbo,oai_token-act-pair
+504,gpt2-small,8-res_fs768-jb,503,"specific mentions of military units, divisions, or numerical references",gpt-3.5-turbo,oai_token-act-pair
+505,gpt2-small,8-res_fs768-jb,504,mentions of the Trump administration and related entities,gpt-3.5-turbo,oai_token-act-pair
+506,gpt2-small,8-res_fs768-jb,505,phrases related to online activities and financial transactions,gpt-3.5-turbo,oai_token-act-pair
+507,gpt2-small,8-res_fs768-jb,506,phrases related to sports strategy or analysis,gpt-3.5-turbo,oai_token-act-pair
+508,gpt2-small,8-res_fs768-jb,507,"phrases related to security, investigation, and government actions",gpt-3.5-turbo,oai_token-act-pair
+509,gpt2-small,8-res_fs768-jb,508,"content related to political and social issues with a focus on topics like medical procedures, cultural norms, opinions on beliefs, and government actions",gpt-3.5-turbo,oai_token-act-pair
+510,gpt2-small,8-res_fs768-jb,509,phrases related to challenges or difficulties,gpt-3.5-turbo,oai_token-act-pair
+511,gpt2-small,8-res_fs768-jb,510,names of individuals and their roles or occupations,gpt-3.5-turbo,oai_token-act-pair
+512,gpt2-small,8-res_fs768-jb,511,"information related to projects, races, and endorsements in a political or competitive context",gpt-3.5-turbo,oai_token-act-pair
+513,gpt2-small,8-res_fs768-jb,512,"proper nouns, likely related to news articles or reports",gpt-3.5-turbo,oai_token-act-pair
+514,gpt2-small,8-res_fs768-jb,513,"phrases related to growth, development, and change",gpt-3.5-turbo,oai_token-act-pair
+515,gpt2-small,8-res_fs768-jb,514,discussions or debates on political and social issues,gpt-3.5-turbo,oai_token-act-pair
+516,gpt2-small,8-res_fs768-jb,515,height measurements and location details,gpt-3.5-turbo,oai_token-act-pair
+517,gpt2-small,8-res_fs768-jb,516,mentions of specific individuals and their actions or situations,gpt-3.5-turbo,oai_token-act-pair
+518,gpt2-small,8-res_fs768-jb,517,proper nouns related to locations and names,gpt-3.5-turbo,oai_token-act-pair
+519,gpt2-small,8-res_fs768-jb,518,phrases related to economic impact and potential consequences on different groups or entities,gpt-3.5-turbo,oai_token-act-pair
+520,gpt2-small,8-res_fs768-jb,519,keywords related to smartphones and related activities,gpt-3.5-turbo,oai_token-act-pair
+521,gpt2-small,8-res_fs768-jb,520,social and political current events and opinions,gpt-3.5-turbo,oai_token-act-pair
+522,gpt2-small,8-res_fs768-jb,521,text related to political news and events,gpt-3.5-turbo,oai_token-act-pair
+523,gpt2-small,8-res_fs768-jb,522,"information on government policies and initiatives, as well as discussions on historical and cultural practices around the world",gpt-3.5-turbo,oai_token-act-pair
+524,gpt2-small,8-res_fs768-jb,523,"words related to honesty, integrity, and values related to ethical behavior",gpt-3.5-turbo,oai_token-act-pair
+525,gpt2-small,8-res_fs768-jb,524,items of critique or controversy,gpt-3.5-turbo,oai_token-act-pair
+526,gpt2-small,8-res_fs768-jb,525,"mentions of political figures and international political events, particularly related to Russia",gpt-3.5-turbo,oai_token-act-pair
+527,gpt2-small,8-res_fs768-jb,526,"punctuation marks, particularly periods",gpt-3.5-turbo,oai_token-act-pair
+528,gpt2-small,8-res_fs768-jb,527, statements or questions that speculate or analyze different perspectives or arguments on a topic,gpt-3.5-turbo,oai_token-act-pair
+529,gpt2-small,8-res_fs768-jb,528,proper nouns and locations,gpt-3.5-turbo,oai_token-act-pair
+530,gpt2-small,8-res_fs768-jb,529,details related to news articles or reports,gpt-3.5-turbo,oai_token-act-pair
+531,gpt2-small,8-res_fs768-jb,530, scientific and astronomical terms and concepts,gpt-3.5-turbo,oai_token-act-pair
+532,gpt2-small,8-res_fs768-jb,531,phrases related to legal agreements or government actions,gpt-3.5-turbo,oai_token-act-pair
+533,gpt2-small,8-res_fs768-jb,532,"sports-related information, specifically related to team matchups, player injuries, and game results",gpt-3.5-turbo,oai_token-act-pair
+534,gpt2-small,8-res_fs768-jb,533,names of politicians and political figures,gpt-3.5-turbo,oai_token-act-pair
+535,gpt2-small,8-res_fs768-jb,534,locations and names of cities or universities,gpt-3.5-turbo,oai_token-act-pair
+536,gpt2-small,8-res_fs768-jb,535,"time-related information, especially years mentioned in a text",gpt-3.5-turbo,oai_token-act-pair
+537,gpt2-small,8-res_fs768-jb,536,sentences talking about possibilities or uncertainties,gpt-3.5-turbo,oai_token-act-pair
+538,gpt2-small,8-res_fs768-jb,537,technical terms related to computer programming and hardware configurations,gpt-3.5-turbo,oai_token-act-pair
+539,gpt2-small,8-res_fs768-jb,538, political and governmental terms and concepts,gpt-3.5-turbo,oai_token-act-pair
+540,gpt2-small,8-res_fs768-jb,539,mentions of specific video game and software-related terms,gpt-3.5-turbo,oai_token-act-pair
+541,gpt2-small,8-res_fs768-jb,540,sentences related to unexpected events or problematic situations,gpt-3.5-turbo,oai_token-act-pair
+542,gpt2-small,8-res_fs768-jb,541,named locations combined with educational or professional entities,gpt-3.5-turbo,oai_token-act-pair
+543,gpt2-small,8-res_fs768-jb,542,phrases related to technology and government regulation,gpt-3.5-turbo,oai_token-act-pair
+544,gpt2-small,8-res_fs768-jb,543,terms related to naval activities and events,gpt-3.5-turbo,oai_token-act-pair
+545,gpt2-small,8-res_fs768-jb,544,text related to legal and law enforcement matters,gpt-3.5-turbo,oai_token-act-pair
+546,gpt2-small,8-res_fs768-jb,545,"website links, usernames, and hashtags",gpt-3.5-turbo,oai_token-act-pair
+547,gpt2-small,8-res_fs768-jb,547,"information related to various topics such as technology, sports, wildlife conservation, and medical conditions",gpt-3.5-turbo,oai_token-act-pair
+548,gpt2-small,8-res_fs768-jb,548,mentions of political figures and government actions,gpt-3.5-turbo,oai_token-act-pair
+549,gpt2-small,8-res_fs768-jb,549,technical specifications and reviews of electronic devices,gpt-3.5-turbo,oai_token-act-pair
+550,gpt2-small,8-res_fs768-jb,550,discussions related to economic policies and practices,gpt-3.5-turbo,oai_token-act-pair
+551,gpt2-small,8-res_fs768-jb,551,mentions or discussions related to social media,gpt-3.5-turbo,oai_token-act-pair
+552,gpt2-small,8-res_fs768-jb,552,references to source code and related software development concepts,gpt-3.5-turbo,oai_token-act-pair
+553,gpt2-small,8-res_fs768-jb,553,words related to web comics and technical details,gpt-3.5-turbo,oai_token-act-pair
+554,gpt2-small,8-res_fs768-jb,554,words related to law enforcement and security measures,gpt-3.5-turbo,oai_token-act-pair
+555,gpt2-small,8-res_fs768-jb,555,names and terms related to North Korea,gpt-3.5-turbo,oai_token-act-pair
+556,gpt2-small,8-res_fs768-jb,556,"phrases related to laws, regulations, enforcement, and criminal activities",gpt-3.5-turbo,oai_token-act-pair
+557,gpt2-small,8-res_fs768-jb,557,phrases related to creating or causing something,gpt-3.5-turbo,oai_token-act-pair
+558,gpt2-small,8-res_fs768-jb,558,"phrases related to geographical locations, cities, and municipal regulations",gpt-3.5-turbo,oai_token-act-pair
+559,gpt2-small,8-res_fs768-jb,559,positions or roles people hold within communities,gpt-3.5-turbo,oai_token-act-pair
+560,gpt2-small,8-res_fs768-jb,560,detailed product descriptions and technical specifications,gpt-3.5-turbo,oai_token-act-pair
+561,gpt2-small,8-res_fs768-jb,561,web-related terms and concepts. ,gpt-3.5-turbo,oai_token-act-pair
+562,gpt2-small,8-res_fs768-jb,562,commands or suggestions to take certain actions,gpt-3.5-turbo,oai_token-act-pair
+563,gpt2-small,8-res_fs768-jb,563,conditional statements expressing a likelihood or preference,gpt-3.5-turbo,oai_token-act-pair
+564,gpt2-small,8-res_fs768-jb,564,instructions and commands related to setting up and configuring software tools,gpt-3.5-turbo,oai_token-act-pair
+565,gpt2-small,8-res_fs768-jb,565,images or photos and descriptions related to them,gpt-3.5-turbo,oai_token-act-pair
+566,gpt2-small,8-res_fs768-jb,566,introductory sentences or sections,gpt-3.5-turbo,oai_token-act-pair
+567,gpt2-small,8-res_fs768-jb,567,error messages and requests for email address validation,gpt-3.5-turbo,oai_token-act-pair
+568,gpt2-small,8-res_fs768-jb,568,words related to legal cases and criminal events,gpt-3.5-turbo,oai_token-act-pair
+569,gpt2-small,8-res_fs768-jb,569,references to information and knowledge,gpt-3.5-turbo,oai_token-act-pair
+570,gpt2-small,8-res_fs768-jb,570,phrases related to opportunities or possibilities,gpt-3.5-turbo,oai_token-act-pair
+571,gpt2-small,8-res_fs768-jb,571,phrases related to upcoming video game releases,gpt-3.5-turbo,oai_token-act-pair
+572,gpt2-small,8-res_fs768-jb,572,phrases related to returning or recovering from past events,gpt-3.5-turbo,oai_token-act-pair
+573,gpt2-small,8-res_fs768-jb,573,words related to current events and political situations,gpt-3.5-turbo,oai_token-act-pair
+574,gpt2-small,8-res_fs768-jb,574,"phrases related to events, political actions, and organized groups",gpt-3.5-turbo,oai_token-act-pair
+575,gpt2-small,8-res_fs768-jb,575,numeric values associated with quantities and measurements,gpt-3.5-turbo,oai_token-act-pair
+576,gpt2-small,8-res_fs768-jb,576,"terms related to hypothetical scenarios, consequences, and possibilities",gpt-3.5-turbo,oai_token-act-pair
+577,gpt2-small,8-res_fs768-jb,577,phrases related to ensuring specific conditions are met or actions are undertaken,gpt-3.5-turbo,oai_token-act-pair
+578,gpt2-small,8-res_fs768-jb,578,adjectives describing the quality of something,gpt-3.5-turbo,oai_token-act-pair
+579,gpt2-small,8-res_fs768-jb,579,action verbs related to tasks or requirements,gpt-3.5-turbo,oai_token-act-pair
+580,gpt2-small,8-res_fs768-jb,580, instances of the word 'give' or 'gave',gpt-3.5-turbo,oai_token-act-pair
+581,gpt2-small,8-res_fs768-jb,581,items or products within a list,gpt-3.5-turbo,oai_token-act-pair
+582,gpt2-small,8-res_fs768-jb,582,references to specific events or incidents involving individuals and locations,gpt-3.5-turbo,oai_token-act-pair
+583,gpt2-small,8-res_fs768-jb,583,legal and political terms and information,gpt-3.5-turbo,oai_token-act-pair
+584,gpt2-small,8-res_fs768-jb,584,content related to corporate information and initiatives,gpt-3.5-turbo,oai_token-act-pair
+585,gpt2-small,8-res_fs768-jb,585,repeated phrases or patterns in the text,gpt-3.5-turbo,oai_token-act-pair
+586,gpt2-small,8-res_fs768-jb,586,"names of people and titles of positions related to law, military, policy, and expertise",gpt-3.5-turbo,oai_token-act-pair
+587,gpt2-small,8-res_fs768-jb,587,"superlatives and evaluations such as ""most,"" ""difficult,"" ""favorite,"" ""best,"" ""worst,"" ""consistent,"" ""irritating,"" ""popular,"" ""powerful,"" and ""prominent"" in a text",gpt-3.5-turbo,oai_token-act-pair
+588,gpt2-small,8-res_fs768-jb,588,"phrases related to residential buildings, decision-making, psychological terms related to assertiveness and passivity, Google Analytics terms, programming languages like Lisp, and phrases related to admin tools in an online platform",gpt-3.5-turbo,oai_token-act-pair
+589,gpt2-small,8-res_fs768-jb,589,family relationships,gpt-3.5-turbo,oai_token-act-pair
+590,gpt2-small,8-res_fs768-jb,590,"political and social issues related to rights, discrimination, segregation, and controversial government actions",gpt-3.5-turbo,oai_token-act-pair
+591,gpt2-small,8-res_fs768-jb,591,"technology-related information, such as product details and specifications",gpt-3.5-turbo,oai_token-act-pair
+592,gpt2-small,8-res_fs768-jb,592,technical computer programming terms and references,gpt-3.5-turbo,oai_token-act-pair
+593,gpt2-small,8-res_fs768-jb,593,personal narratives and anecdotal stories,gpt-3.5-turbo,oai_token-act-pair
+594,gpt2-small,8-res_fs768-jb,594,"instances of the word ""one"" associated with numerical values, establishing importance or comparison",gpt-3.5-turbo,oai_token-act-pair
+595,gpt2-small,8-res_fs768-jb,595,phrases related to advocating for social causes,gpt-3.5-turbo,oai_token-act-pair
+596,gpt2-small,8-res_fs768-jb,596,"statements and reports in interviews, emails, and statements",gpt-3.5-turbo,oai_token-act-pair
+597,gpt2-small,8-res_fs768-jb,597,discussion-related words and phrases,gpt-3.5-turbo,oai_token-act-pair
+598,gpt2-small,8-res_fs768-jb,598,political and authoritarian-themed terms and actions,gpt-3.5-turbo,oai_token-act-pair
+599,gpt2-small,8-res_fs768-jb,599,mentions of negative aspects or consequences,gpt-3.5-turbo,oai_token-act-pair
+600,gpt2-small,8-res_fs768-jb,600,words related to cyber attacks and military actions,gpt-3.5-turbo,oai_token-act-pair
+601,gpt2-small,8-res_fs768-jb,601,"time-related expressions such as days, hours, and moments",gpt-3.5-turbo,oai_token-act-pair
+602,gpt2-small,8-res_fs768-jb,602,mentions of achievements or awards,gpt-3.5-turbo,oai_token-act-pair
+603,gpt2-small,8-res_fs768-jb,603,percentages and numbers related to statistics,gpt-3.5-turbo,oai_token-act-pair
+604,gpt2-small,8-res_fs768-jb,604,mentions of news media outlets and reports,gpt-3.5-turbo,oai_token-act-pair
+605,gpt2-small,8-res_fs768-jb,605,words related to leadership and leading actions or initiatives,gpt-3.5-turbo,oai_token-act-pair
+606,gpt2-small,8-res_fs768-jb,606,self-referential words indicating action or change happening,gpt-3.5-turbo,oai_token-act-pair
+607,gpt2-small,8-res_fs768-jb,607,phrases related to expressing strong opinions or directives,gpt-3.5-turbo,oai_token-act-pair
+608,gpt2-small,8-res_fs768-jb,608,phrases related to events or actions happening during a specific time frame,gpt-3.5-turbo,oai_token-act-pair
+609,gpt2-small,8-res_fs768-jb,609,"references to political movements, locations, and organizations",gpt-3.5-turbo,oai_token-act-pair
+610,gpt2-small,8-res_fs768-jb,610,political and governmental terms and topics,gpt-3.5-turbo,oai_token-act-pair
+611,gpt2-small,8-res_fs768-jb,611,healthcare-related words and names,gpt-3.5-turbo,oai_token-act-pair
+612,gpt2-small,8-res_fs768-jb,612,names of individuals or characters,gpt-3.5-turbo,oai_token-act-pair
+613,gpt2-small,8-res_fs768-jb,613,financial or legal terms and occurrences,gpt-3.5-turbo,oai_token-act-pair
+614,gpt2-small,8-res_fs768-jb,614,adverbs describing degree or amount,gpt-3.5-turbo,oai_token-act-pair
+615,gpt2-small,8-res_fs768-jb,615,phrases related to governmental decisions and actions,gpt-3.5-turbo,oai_token-act-pair
+616,gpt2-small,8-res_fs768-jb,616,financial figures represented in monetary values,gpt-3.5-turbo,oai_token-act-pair
+617,gpt2-small,8-res_fs768-jb,617,names and terms related to identity,gpt-3.5-turbo,oai_token-act-pair
+618,gpt2-small,8-res_fs768-jb,618,information related to safety issues and governmental actions,gpt-3.5-turbo,oai_token-act-pair
+619,gpt2-small,8-res_fs768-jb,619,verbs in the potential future tense,gpt-3.5-turbo,oai_token-act-pair
+620,gpt2-small,8-res_fs768-jb,620,information related to news and events,gpt-3.5-turbo,oai_token-act-pair
+621,gpt2-small,8-res_fs768-jb,621,words related to types or categories,gpt-3.5-turbo,oai_token-act-pair
+622,gpt2-small,8-res_fs768-jb,622,information related to contact dermatitis and skin reactions caused by contact with plants,gpt-3.5-turbo,oai_token-act-pair
+623,gpt2-small,8-res_fs768-jb,623,legislation and political terms and phrases,gpt-3.5-turbo,oai_token-act-pair
+624,gpt2-small,8-res_fs768-jb,624,sports-related terms and information,gpt-3.5-turbo,oai_token-act-pair
+625,gpt2-small,8-res_fs768-jb,625,emotional states and personal experiences,gpt-3.5-turbo,oai_token-act-pair
+626,gpt2-small,8-res_fs768-jb,626,Python code snippets and URLs,gpt-3.5-turbo,oai_token-act-pair
+627,gpt2-small,8-res_fs768-jb,627,phrases related to opinion and agreement,gpt-3.5-turbo,oai_token-act-pair
+628,gpt2-small,8-res_fs768-jb,628,phrases that emphasize exclusivity or uniqueness,gpt-3.5-turbo,oai_token-act-pair
+629,gpt2-small,8-res_fs768-jb,629,phrases related to criminal activities and financial transactions,gpt-3.5-turbo,oai_token-act-pair
+630,gpt2-small,8-res_fs768-jb,630,references to human life events and experiences,gpt-3.5-turbo,oai_token-act-pair
+631,gpt2-small,8-res_fs768-jb,631,"terms related to power, authority, and control in political contexts",gpt-3.5-turbo,oai_token-act-pair
+632,gpt2-small,8-res_fs768-jb,632,phrases related to criminal justice and law enforcement,gpt-3.5-turbo,oai_token-act-pair
+633,gpt2-small,8-res_fs768-jb,633,"numerical data such as measurements, statistics, and percentages",gpt-3.5-turbo,oai_token-act-pair
+634,gpt2-small,8-res_fs768-jb,634,verbs that are in the infinitive form,gpt-3.5-turbo,oai_token-act-pair
+635,gpt2-small,8-res_fs768-jb,635,locations and specific organizations or entities within a document that might be part of a system or network,gpt-3.5-turbo,oai_token-act-pair
+636,gpt2-small,8-res_fs768-jb,636,"mentions of the word ""free"" in various contexts",gpt-3.5-turbo,oai_token-act-pair
+637,gpt2-small,8-res_fs768-jb,637,phrases related to international political conflicts and events,gpt-3.5-turbo,oai_token-act-pair
+638,gpt2-small,8-res_fs768-jb,638,examples of phrases discussing social or political situations and events,gpt-3.5-turbo,oai_token-act-pair
+639,gpt2-small,8-res_fs768-jb,639,words related to corruption and unethical behavior,gpt-3.5-turbo,oai_token-act-pair
+640,gpt2-small,8-res_fs768-jb,640,references to water-related terms and places,gpt-3.5-turbo,oai_token-act-pair
+641,gpt2-small,8-res_fs768-jb,641,"instances related to government actions, policies, and international relations",gpt-3.5-turbo,oai_token-act-pair
+642,gpt2-small,8-res_fs768-jb,642,"terms related to marijuana dispensaries, legalization, and regulations",gpt-3.5-turbo,oai_token-act-pair
+643,gpt2-small,8-res_fs768-jb,643,instances of enjoyable activities or events,gpt-3.5-turbo,oai_token-act-pair
+644,gpt2-small,8-res_fs768-jb,644,step-by-step instructions or procedures,gpt-3.5-turbo,oai_token-act-pair
+645,gpt2-small,8-res_fs768-jb,645,phrases related to real estate and property ownership,gpt-3.5-turbo,oai_token-act-pair
+646,gpt2-small,8-res_fs768-jb,646," instances of the word ""get"" followed by a number",gpt-3.5-turbo,oai_token-act-pair
+647,gpt2-small,8-res_fs768-jb,647,"names and terms related to politics, sports, and events",gpt-3.5-turbo,oai_token-act-pair
+648,gpt2-small,8-res_fs768-jb,648,descriptive texts about technical tasks or procedures,gpt-3.5-turbo,oai_token-act-pair
+649,gpt2-small,8-res_fs768-jb,649,information related to legal cases and investigations,gpt-3.5-turbo,oai_token-act-pair
+650,gpt2-small,8-res_fs768-jb,650,"information related to locations, events, and organizations",gpt-3.5-turbo,oai_token-act-pair
+651,gpt2-small,8-res_fs768-jb,651,adjectives related to size,gpt-3.5-turbo,oai_token-act-pair
+652,gpt2-small,8-res_fs768-jb,652,phrases expressing gratitude and appreciation,gpt-3.5-turbo,oai_token-act-pair
+653,gpt2-small,8-res_fs768-jb,653,"information related to music festivals, sports clubs, community events, and conservation efforts",gpt-3.5-turbo,oai_token-act-pair
+654,gpt2-small,8-res_fs768-jb,654,information related to social and political issues,gpt-3.5-turbo,oai_token-act-pair
+655,gpt2-small,8-res_fs768-jb,655,numerical values or quantities mentioned in the text,gpt-3.5-turbo,oai_token-act-pair
+656,gpt2-small,8-res_fs768-jb,656,"topics related to financial fraud, tax evasion, and corruption",gpt-3.5-turbo,oai_token-act-pair
+657,gpt2-small,8-res_fs768-jb,657,adverbs indicating a continuous or ongoing status or action,gpt-3.5-turbo,oai_token-act-pair
+658,gpt2-small,8-res_fs768-jb,658,terms related to legal matters and regulations,gpt-3.5-turbo,oai_token-act-pair
+659,gpt2-small,8-res_fs768-jb,659,statistics and data related to labor trends and workforce demographics,gpt-3.5-turbo,oai_token-act-pair
+660,gpt2-small,8-res_fs768-jb,660,information related to different categories or subsections within a text,gpt-3.5-turbo,oai_token-act-pair
+661,gpt2-small,8-res_fs768-jb,661,direct quotations and reported speech,gpt-3.5-turbo,oai_token-act-pair
+662,gpt2-small,8-res_fs768-jb,662,phrases related to legislative bills and government policies,gpt-3.5-turbo,oai_token-act-pair
+663,gpt2-small,8-res_fs768-jb,663,"words related to the military, military actions, and military personnel",gpt-3.5-turbo,oai_token-act-pair
+664,gpt2-small,8-res_fs768-jb,664,personal anecdotes or reflections on past experiences,gpt-3.5-turbo,oai_token-act-pair
+665,gpt2-small,8-res_fs768-jb,665,"phrases related to the concept of openness, specifically in terms of software and ideas",gpt-3.5-turbo,oai_token-act-pair
+666,gpt2-small,8-res_fs768-jb,666,dates and days of the week,gpt-3.5-turbo,oai_token-act-pair
+667,gpt2-small,8-res_fs768-jb,667,information related to business operations and procedures,gpt-3.5-turbo,oai_token-act-pair
+668,gpt2-small,8-res_fs768-jb,668,phrases indicating a return or resurgence,gpt-3.5-turbo,oai_token-act-pair
+669,gpt2-small,8-res_fs768-jb,669,words related to political discussions and geographical locations,gpt-3.5-turbo,oai_token-act-pair
+670,gpt2-small,8-res_fs768-jb,670,sporting event-related phrases and terminology,gpt-3.5-turbo,oai_token-act-pair
+671,gpt2-small,8-res_fs768-jb,671,the preposition 'to' followed by a verb,gpt-3.5-turbo,oai_token-act-pair
+672,gpt2-small,8-res_fs768-jb,672,names and places,gpt-3.5-turbo,oai_token-act-pair
+673,gpt2-small,8-res_fs768-jb,673,technical specifications and features of electronic devices,gpt-3.5-turbo,oai_token-act-pair
+674,gpt2-small,8-res_fs768-jb,674,words related to medical conditions and treatments,gpt-3.5-turbo,oai_token-act-pair
+675,gpt2-small,8-res_fs768-jb,675,references to URLs,gpt-3.5-turbo,oai_token-act-pair
+676,gpt2-small,8-res_fs768-jb,676,"proper nouns, especially names of people and places",gpt-3.5-turbo,oai_token-act-pair
+677,gpt2-small,8-res_fs768-jb,677,words related to food and dining establishments,gpt-3.5-turbo,oai_token-act-pair
+678,gpt2-small,8-res_fs768-jb,678,"terms related to the financial sector, banking, and economic crises",gpt-3.5-turbo,oai_token-act-pair
+679,gpt2-small,8-res_fs768-jb,679,information related to deaths and causes of injuries or medical conditions,gpt-3.5-turbo,oai_token-act-pair
+680,gpt2-small,8-res_fs768-jb,680,"mentions of legal cases, court rulings, and judicial procedures",gpt-3.5-turbo,oai_token-act-pair
+681,gpt2-small,8-res_fs768-jb,681,instances of change or alteration in a context,gpt-3.5-turbo,oai_token-act-pair
+682,gpt2-small,8-res_fs768-jb,682,Proper names and specialized terms related to historical events or people,gpt-3.5-turbo,oai_token-act-pair
+683,gpt2-small,8-res_fs768-jb,683,references to stakes or importance in various contexts,gpt-3.5-turbo,oai_token-act-pair
+684,gpt2-small,8-res_fs768-jb,684,phrases related to teamwork and sports,gpt-3.5-turbo,oai_token-act-pair
+685,gpt2-small,8-res_fs768-jb,685,verb phrases preceded by 'Here is' or 'Here are',gpt-3.5-turbo,oai_token-act-pair
+686,gpt2-small,8-res_fs768-jb,686,"mixed activations with various topics and contexts, making it challenging to pinpoint a specific theme or pattern",gpt-3.5-turbo,oai_token-act-pair
+687,gpt2-small,8-res_fs768-jb,687,proper nouns related to political figures or events,gpt-3.5-turbo,oai_token-act-pair
+688,gpt2-small,8-res_fs768-jb,688,"mentions of political activities, decision-making, and policies",gpt-3.5-turbo,oai_token-act-pair
+689,gpt2-small,8-res_fs768-jb,689,dates and events,gpt-3.5-turbo,oai_token-act-pair
+690,gpt2-small,8-res_fs768-jb,690,embedded videos and online footage,gpt-3.5-turbo,oai_token-act-pair
+691,gpt2-small,8-res_fs768-jb,691,phrases related to political events and outcomes,gpt-3.5-turbo,oai_token-act-pair
+692,gpt2-small,8-res_fs768-jb,692,statements related to current events or ongoing situations,gpt-3.5-turbo,oai_token-act-pair
+693,gpt2-small,8-res_fs768-jb,693,terms related to gaming and game development,gpt-3.5-turbo,oai_token-act-pair
+694,gpt2-small,8-res_fs768-jb,694,attributions or causes stated in text,gpt-3.5-turbo,oai_token-act-pair
+695,gpt2-small,8-res_fs768-jb,695,phrases related to decision-making and consideration,gpt-3.5-turbo,oai_token-act-pair
+696,gpt2-small,8-res_fs768-jb,696,phrases related to marketing strategies and reaching a target audience in social media,gpt-3.5-turbo,oai_token-act-pair
+697,gpt2-small,8-res_fs768-jb,697,contractions,gpt-3.5-turbo,oai_token-act-pair
+698,gpt2-small,8-res_fs768-jb,698,words related to social justice and activism,gpt-3.5-turbo,oai_token-act-pair
+699,gpt2-small,8-res_fs768-jb,699,sentences or phrases related to economic or geopolitical analysis,gpt-3.5-turbo,oai_token-act-pair
+700,gpt2-small,8-res_fs768-jb,700,Jewish religious figures and related locations or events,gpt-3.5-turbo,oai_token-act-pair
+701,gpt2-small,8-res_fs768-jb,701,mentions of organizations or entities in a formal context,gpt-3.5-turbo,oai_token-act-pair
+702,gpt2-small,8-res_fs768-jb,702,ways or methods of doing something,gpt-3.5-turbo,oai_token-act-pair
+703,gpt2-small,8-res_fs768-jb,703,"information related to criminal activities, legal proceedings, and investigations",gpt-3.5-turbo,oai_token-act-pair
+704,gpt2-small,8-res_fs768-jb,704," information related to rules, regulations, and legal matters",gpt-3.5-turbo,oai_token-act-pair
+705,gpt2-small,8-res_fs768-jb,705,"references to writing activities such as writing books, journal articles, and letters",gpt-3.5-turbo,oai_token-act-pair
+706,gpt2-small,8-res_fs768-jb,706,information related to scientific studies and medical conditions,gpt-3.5-turbo,oai_token-act-pair
+707,gpt2-small,8-res_fs768-jb,707,"words related to actions, behavior, and consequences",gpt-3.5-turbo,oai_token-act-pair
+708,gpt2-small,8-res_fs768-jb,708,phrases related to medical procedures and healthcare policies,gpt-3.5-turbo,oai_token-act-pair
+709,gpt2-small,8-res_fs768-jb,709,expressions of disagreement and contrasting viewpoints,gpt-3.5-turbo,oai_token-act-pair
+710,gpt2-small,8-res_fs768-jb,710,words related to negative political opinions and controversy,gpt-3.5-turbo,oai_token-act-pair
+711,gpt2-small,8-res_fs768-jb,711,phrases related to fighting or contesting,gpt-3.5-turbo,oai_token-act-pair
+712,gpt2-small,8-res_fs768-jb,712,"references to technological advancements, particularly in the field of robotics and automation",gpt-3.5-turbo,oai_token-act-pair
+713,gpt2-small,8-res_fs768-jb,713,locations or proper nouns related to a specific dystopian movie franchise,gpt-3.5-turbo,oai_token-act-pair
+714,gpt2-small,8-res_fs768-jb,714,"words related to physical attributes such as weight, exercise, appearance, and other related concepts",gpt-3.5-turbo,oai_token-act-pair
+715,gpt2-small,8-res_fs768-jb,716,text related to various forms of hard work and dedication,gpt-3.5-turbo,oai_token-act-pair
+716,gpt2-small,8-res_fs768-jb,717,sentence structures with a negative context or controversy,gpt-3.5-turbo,oai_token-act-pair
+717,gpt2-small,8-res_fs768-jb,718,phrases related to failure to meet expectations or obligations,gpt-3.5-turbo,oai_token-act-pair
+718,gpt2-small,8-res_fs768-jb,719,phrases related to news articles and journalism,gpt-3.5-turbo,oai_token-act-pair
+719,gpt2-small,8-res_fs768-jb,720,technical and scientific terms,gpt-3.5-turbo,oai_token-act-pair
+720,gpt2-small,8-res_fs768-jb,721,technical terms related to technology and economy,gpt-3.5-turbo,oai_token-act-pair
+721,gpt2-small,8-res_fs768-jb,722,"legal terms and discussions, specifically related to the death penalty and impeachment",gpt-3.5-turbo,oai_token-act-pair
+722,gpt2-small,8-res_fs768-jb,723,time-related events and historical context,gpt-3.5-turbo,oai_token-act-pair
+723,gpt2-small,8-res_fs768-jb,724,questions and statements related to inquiry and criticism,gpt-3.5-turbo,oai_token-act-pair
+724,gpt2-small,8-res_fs768-jb,725, words related to surveys and polls,gpt-3.5-turbo,oai_token-act-pair
+725,gpt2-small,8-res_fs768-jb,726,stories or articles about crimes and criminal activities,gpt-3.5-turbo,oai_token-act-pair
+726,gpt2-small,8-res_fs768-jb,727,personal possessive pronouns and possessive determiners,gpt-3.5-turbo,oai_token-act-pair
+727,gpt2-small,8-res_fs768-jb,728,words related to criticism or negative judgment,gpt-3.5-turbo,oai_token-act-pair
+728,gpt2-small,8-res_fs768-jb,729,"phrases related to specific events or actions starting with the word ""When""",gpt-3.5-turbo,oai_token-act-pair
+729,gpt2-small,8-res_fs768-jb,730,"phrases related to leadership, innovation, and societal progress",gpt-3.5-turbo,oai_token-act-pair
+730,gpt2-small,8-res_fs768-jb,731,parts of text related to geography and climate,gpt-3.5-turbo,oai_token-act-pair
+731,gpt2-small,8-res_fs768-jb,732,details related to historic events and people mentioned in news articles,gpt-3.5-turbo,oai_token-act-pair
+732,gpt2-small,8-res_fs768-jb,733,"phrases related to political events and activities, specifically focusing on US politics and international conflicts",gpt-3.5-turbo,oai_token-act-pair
+733,gpt2-small,8-res_fs768-jb,734,"instances of the word ""of"" occurring with emphasis, particularly in phrases or contexts that convey importance or strong impact",gpt-3.5-turbo,oai_token-act-pair
+734,gpt2-small,8-res_fs768-jb,735,technical terms and references related to regulations or official documents,gpt-3.5-turbo,oai_token-act-pair
+735,gpt2-small,8-res_fs768-jb,736,"information related to political systems and societal implications, such as voter disenfranchisement, automation impact on jobs, explanations of economic concepts, and arguments related to the Electoral College",gpt-3.5-turbo,oai_token-act-pair
+736,gpt2-small,8-res_fs768-jb,737,instances where people are sitting or being forced to sit in various situations and environments,gpt-3.5-turbo,oai_token-act-pair
+737,gpt2-small,8-res_fs768-jb,738,"proper nouns, names, and places",gpt-3.5-turbo,oai_token-act-pair
+738,gpt2-small,8-res_fs768-jb,739,direct actions or impacts,gpt-3.5-turbo,oai_token-act-pair
+739,gpt2-small,8-res_fs768-jb,740,phrases related to legal issues and news reporting,gpt-3.5-turbo,oai_token-act-pair
+740,gpt2-small,8-res_fs768-jb,741,comparative phrases indicating greater importance or intensity,gpt-3.5-turbo,oai_token-act-pair
+741,gpt2-small,8-res_fs768-jb,742,statements made by individuals,gpt-3.5-turbo,oai_token-act-pair
+742,gpt2-small,8-res_fs768-jb,743,information related to sports and events,gpt-3.5-turbo,oai_token-act-pair
+743,gpt2-small,8-res_fs768-jb,744,information related to economic developments and business news,gpt-3.5-turbo,oai_token-act-pair
+744,gpt2-small,8-res_fs768-jb,745,chemical substances or items related to cleaning or house maintenance,gpt-3.5-turbo,oai_token-act-pair
+745,gpt2-small,8-res_fs768-jb,746,phrases related to legal or formal statements,gpt-3.5-turbo,oai_token-act-pair
+746,gpt2-small,8-res_fs768-jb,747,words related to communication and discussion in a professional or interpersonal setting,gpt-3.5-turbo,oai_token-act-pair
+747,gpt2-small,8-res_fs768-jb,748,"proper names like locations, job titles, and organizations",gpt-3.5-turbo,oai_token-act-pair
+748,gpt2-small,8-res_fs768-jb,749,expressions of gratitude and appreciation,gpt-3.5-turbo,oai_token-act-pair
+749,gpt2-small,8-res_fs768-jb,750,geographic locations and directions,gpt-3.5-turbo,oai_token-act-pair
+750,gpt2-small,8-res_fs768-jb,751,references to Air Force-related terms and activities,gpt-3.5-turbo,oai_token-act-pair
+751,gpt2-small,8-res_fs768-jb,752,dates and significant events from sports-related texts,gpt-3.5-turbo,oai_token-act-pair
+752,gpt2-small,8-res_fs768-jb,753,expressions indicating uncertainty or speculation,gpt-3.5-turbo,oai_token-act-pair
+753,gpt2-small,8-res_fs768-jb,754,"the word ""Any"" coupled with various follow-up words or phrases",gpt-3.5-turbo,oai_token-act-pair
+754,gpt2-small,8-res_fs768-jb,755,phrases related to time and history,gpt-3.5-turbo,oai_token-act-pair
+755,gpt2-small,8-res_fs768-jb,756,phrases related to political commentary and society opinion,gpt-3.5-turbo,oai_token-act-pair
+756,gpt2-small,8-res_fs768-jb,757,mentions of famous individuals and their roles or activities,gpt-3.5-turbo,oai_token-act-pair
+757,gpt2-small,8-res_fs768-jb,758,"terms related to social, political, and legal issues, as well as technological terms like software and hardware",gpt-3.5-turbo,oai_token-act-pair
+758,gpt2-small,8-res_fs768-jb,759,"references to specific locations, particularly in political contexts",gpt-3.5-turbo,oai_token-act-pair
+759,gpt2-small,8-res_fs768-jb,760,phrases related to contracts or agreements,gpt-3.5-turbo,oai_token-act-pair
+760,gpt2-small,8-res_fs768-jb,761,sentences related to business openings or launches,gpt-3.5-turbo,oai_token-act-pair
+761,gpt2-small,8-res_fs768-jb,762,names of individuals,gpt-3.5-turbo,oai_token-act-pair
+762,gpt2-small,8-res_fs768-jb,763,past tense verbs related to leaving or departing from a place or position,gpt-3.5-turbo,oai_token-act-pair
+763,gpt2-small,8-res_fs768-jb,764,talking about sports events and performances,gpt-3.5-turbo,oai_token-act-pair
+764,gpt2-small,8-res_fs768-jb,765,instructions or steps outlined in a document,gpt-3.5-turbo,oai_token-act-pair
+765,gpt2-small,8-res_fs768-jb,766,"references to data, including data storage, management, analysis, and security",gpt-3.5-turbo,oai_token-act-pair
+766,gpt2-small,8-res_fs768-jb,767,countries or locations,gpt-3.5-turbo,oai_token-act-pair
+767,gpt2-small,8-res_fs768-jb,8,"political and governmental references, including discussions, controversies, and meetings",gpt-3.5-turbo,oai_token-act-pair
+768,gpt2-small,8-res_fs768-jb,116,text related to legal proceedings and investigations,gpt-3.5-turbo,oai_token-act-pair
+769,gpt2-small,8-res_fs768-jb,194,"formal terms followed by verbs, actions or situations related to news or events",gpt-3.5-turbo,oai_token-act-pair
