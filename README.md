@@ -9,15 +9,16 @@ Transformers\
 Sentence-Transfromers
 
 ## Training
-Train with ranked loss during the steering process 
-```
-python train_ranksteer.py
-```
-
 Train with triplet loss 
 ```
 pythonn train_tripletLoss.py
 ```
+Train with the process of only steering the LLM with several first ranked features during steering process. The loss is still triplet loss.
+```
+python train_ranksteer.py
+```
+
+
 
 
 ## Project Motivation
