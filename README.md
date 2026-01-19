@@ -1,4 +1,4 @@
-# LLM-Steering-with-Limited-User-Reference-Text
+# LLM Steering with Limite User Reference Text
 Develop a user friendly pipelines that control LLM output by training a model to steer LLM using limited input text reference 
 <img width="1513" height="904" alt="Screenshot 2025-05-25 130113" src="https://github.com/user-attachments/assets/698da4b6-1c81-4831-92a0-e64c855e7c90" />
 
